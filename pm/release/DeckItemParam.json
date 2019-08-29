@@ -1,0 +1,12 @@
+{ "entries": [
+{ "deckItemParamId": "1", "param1": 1, "param2": 11, "param3": 13, "param4": 16, "param5": 19, "param6": 22, "param7": 25 },
+{ "deckItemParamId": "2", "param1": 2, "param2": 6, "param3": 8, "param4": 11, "param5": 14, "param6": 17, "param7": 20 },
+{ "deckItemParamId": "3", "param1": 3, "param2": 6, "param3": 8, "param4": 11, "param5": 14, "param6": 17, "param7": 20 },
+{ "deckItemParamId": "4", "param1": 4, "param2": 6, "param3": 8, "param4": 11, "param5": 14, "param6": 17, "param7": 20 },
+{ "deckItemParamId": "5", "param1": 5, "param2": 6, "param3": 8, "param4": 11, "param5": 14, "param6": 17, "param7": 20 },
+{ "deckItemParamId": "101", "param1": 1, "param2": 22, "param3": 26, "param4": 32, "param5": 38, "param6": 44, "param7": 50 },
+{ "deckItemParamId": "102", "param1": 2, "param2": 12, "param3": 16, "param4": 22, "param5": 28, "param6": 34, "param7": 40 },
+{ "deckItemParamId": "103", "param1": 3, "param2": 12, "param3": 16, "param4": 22, "param5": 28, "param6": 34, "param7": 40 },
+{ "deckItemParamId": "104", "param1": 4, "param2": 12, "param3": 16, "param4": 22, "param5": 28, "param6": 34, "param7": 40 },
+{ "deckItemParamId": "105", "param1": 5, "param2": 12, "param3": 16, "param4": 22, "param5": 28, "param6": 34, "param7": 40 },
+[]]}
