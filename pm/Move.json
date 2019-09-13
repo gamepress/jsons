@@ -329,6 +329,8 @@
 { "MoveID": 19071, "Category": "Status", "User": "Trainer", "Unique": 0, "Group": "Regular", "Type": "NoType", "Target": "AllyAll", "u8": 1, "Drain": 0, "Power": 0, "Accuracy": 0, "Use": 2, "Tag": "none" },
 { "MoveID": 19080, "Category": "Status", "User": "Trainer", "Unique": 0, "Group": "Regular", "Type": "NoType", "Target": "Self", "u8": 1, "Drain": 0, "Power": 0, "Accuracy": 0, "Use": 2, "Tag": "none" },
 { "MoveID": 19081, "Category": "Status", "User": "Trainer", "Unique": 0, "Group": "Regular", "Type": "NoType", "Target": "AllyAll", "u8": 1, "Drain": 0, "Power": 0, "Accuracy": 0, "Use": 2, "Tag": "none" },
+{ "MoveID": 19082, "Category": "Status", "User": "Trainer", "Unique": 0, "Group": "Regular", "Type": "NoType", "Target": "Self", "u8": 1, "Drain": 0, "Power": 0, "Accuracy": 0, "Use": 2, "Tag": "none" },
+{ "MoveID": 19083, "Category": "Status", "User": "Trainer", "Unique": 0, "Group": "Regular", "Type": "NoType", "Target": "AllyAll", "u8": 1, "Drain": 0, "Power": 0, "Accuracy": 0, "Use": 2, "Tag": "none" },
 { "MoveID": 19090, "Category": "Status", "User": "Trainer", "Unique": 0, "Group": "Regular", "Type": "NoType", "Target": "AllySingle", "u8": 1, "Drain": 0, "Power": 0, "Accuracy": 0, "Use": 2, "Tag": "none" },
 { "MoveID": 19100, "Category": "Status", "User": "Trainer", "Unique": 0, "Group": "Regular", "Type": "NoType", "Target": "Self", "u8": 1, "Drain": 0, "Power": 0, "Accuracy": 0, "Use": 2, "Tag": "none" },
 { "MoveID": 19110, "Category": "Status", "User": "Trainer", "Unique": 0, "Group": "Regular", "Type": "NoType", "Target": "AllySingle", "u8": 1, "Drain": 0, "Power": 0, "Accuracy": 0, "Use": 2, "Tag": "none" },
