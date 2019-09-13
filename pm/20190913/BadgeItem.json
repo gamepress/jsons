@@ -1,0 +1,7 @@
+{ "entries": [
+{ "unknown1": "730000000010", "badgeId": 0, "badgeName": "badge_01", "unknown2": 10000800 },
+{ "unknown1": "730000000020", "badgeId": 1, "badgeName": "badge_02", "unknown2": 10001600 },
+{ "unknown1": "730000000030", "badgeId": 2, "badgeName": "badge_03", "unknown2": 10000900 },
+{ "unknown1": "730000000040", "badgeId": 3, "badgeName": "badge_04", "unknown2": 10003200 },
+{ "unknown1": "730000000050", "badgeId": 4, "badgeName": "badge_05", "unknown2": 10001300 },
+[]]}
