@@ -184,6 +184,8 @@
 { "monsterId": "20050900", "monsterNameId": "pm0509_00_choroneko", "dexNumber": 509, "u4": 0, "u5": 1, "nameJp": "", "u7": 1, "Gender": "Male", "u9": 100, "strength": 10100, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20051000", "monsterNameId": "pm0510_00_lepardas", "dexNumber": 510, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 37500, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20051001", "monsterNameId": "pm0510_00_lepardas", "dexNumber": 510, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Female", "u9": 100, "strength": 37500, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
+{ "monsterId": "20052300", "monsterNameId": "pm0523_00_zebraika", "dexNumber": 523, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 79500, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
+{ "monsterId": "20052301", "monsterNameId": "pm0523_00_zebraika", "dexNumber": 523, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Female", "u9": 100, "strength": 79500, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20052400", "monsterNameId": "pm0524_00_dangoro", "dexNumber": 524, "u4": 0, "u5": 1, "nameJp": "", "u7": 1, "Gender": "Male", "u9": 100, "strength": 18000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20052500", "monsterNameId": "pm0525_00_gantle", "dexNumber": 525, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 102000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20052600", "monsterNameId": "pm0526_00_gigaiath", "dexNumber": 526, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 260000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },

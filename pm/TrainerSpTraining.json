@@ -218,4 +218,12 @@
 { "spTrainingId": 217, "characterId": "10020000000", "u3": 0, "u4": 3, "rewardId": 51150201 },
 { "spTrainingId": 218, "characterId": "10020000000", "u3": 0, "u4": 4, "rewardId": 51150202 },
 { "spTrainingId": 219, "characterId": "10020000000", "u3": 1, "u4": 1, "rewardId": 51150203 },
+{ "spTrainingId": 220, "characterId": "10004000000", "u3": 0, "u4": 3, "rewardId": 51150101 },
+{ "spTrainingId": 221, "characterId": "10004000000", "u3": 0, "u4": 4, "rewardId": 51150102 },
+{ "spTrainingId": 222, "characterId": "10004000000", "u3": 1, "u4": 1, "rewardId": 51150103 },
+{ "spTrainingId": 223, "characterId": "10004000000", "u3": 1, "u4": 2, "rewardId": 51150103 },
+{ "spTrainingId": 224, "characterId": "10106000000", "u3": 0, "u4": 3, "rewardId": 51150101 },
+{ "spTrainingId": 225, "characterId": "10106000000", "u3": 0, "u4": 4, "rewardId": 51150102 },
+{ "spTrainingId": 226, "characterId": "10106000000", "u3": 1, "u4": 1, "rewardId": 51150103 },
+{ "spTrainingId": 227, "characterId": "10106000000", "u3": 1, "u4": 2, "rewardId": 51150103 },
 []]}
