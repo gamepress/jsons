@@ -1,0 +1,14 @@
+{ "entries": [
+{ "eventId": "event_M1_1W_Normal_01", "lotteryNameId": "event_M1_1W_Normal_01", "u3": 1, "bannerId": "event_M1_1W", "startTime": 1567490400, "u6": 1, "u7": 400, "paidVirtualCurrencyId": 2108002 },
+{ "eventId": "event_M1_2W_Normal_01", "lotteryNameId": "event_M1_2W_Normal_01", "u3": 1, "bannerId": "event_M1_2W", "startTime": 1568095200, "u6": 1, "u7": 400, "paidVirtualCurrencyId": 2108003 },
+{ "eventId": "event_M1_3W_Normal_01", "lotteryNameId": "event_M1_3W_Normal_01", "u3": 1, "bannerId": "event_M1_3W", "startTime": 1568700000, "u6": 1, "u7": 400, "paidVirtualCurrencyId": 2108005 },
+{ "eventId": "event_M1_4W_Normal_01", "lotteryNameId": "event_M1_4W_Normal_01", "u3": 1, "bannerId": "event_M1_4W", "startTime": 1569304800, "u6": 1, "u7": 400, "paidVirtualCurrencyId": 2108004 },
+{ "eventId": "event_M2_1W_Normal_01", "lotteryNameId": "event_M2_1W_Normal_01", "u3": 1, "bannerId": "event_M2_1W", "startTime": 1569823200, "u6": 1, "u7": 400, "paidVirtualCurrencyId": 2109001 },
+{ "eventId": "event_M2_2W_TypePickup_01", "lotteryNameId": "event_M2_2W_TypePickup_01", "u3": 6, "bannerId": "event_M2_2W", "startTime": 1570514400, "u6": 1, "u7": 400, "paidVirtualCurrencyId": 2109002 },
+{ "eventId": "event_M2_3W_Normal_01", "lotteryNameId": "event_M2_3W_Normal_01", "u3": 1, "bannerId": "event_M2_3W", "startTime": 1571292000, "u6": 1, "u7": 400, "paidVirtualCurrencyId": 2109003 },
+{ "eventId": "event_M2_4W_Normal_01", "lotteryNameId": "event_M2_4W_Normal_01", "u3": 1, "bannerId": "event_M2_4W", "startTime": 1571896800, "u6": 1, "u7": 400, "paidVirtualCurrencyId": 2109004 },
+{ "eventId": "feature_GuaranteeRarity5_gacha_Normal_01", "lotteryNameId": "feature_GuaranteeRarity5_scout_Normal_01", "u3": 2, "bannerId": "feature_GuaranteeRarity5_gacha", "startTime": 1567058400, "u6": 1, "u7": 0, "paidVirtualCurrencyId": 2108001 },
+{ "eventId": "feature_limited_gacha_Normal_01", "lotteryNameId": "feature_limited_scout_Normal_01", "u3": 1, "bannerId": "feature_limited_gacha", "startTime": 0, "u6": 1, "u7": 400, "paidVirtualCurrencyId": 2107001 },
+{ "eventId": "release_201902_gacha1", "lotteryNameId": "release_201902_gacha1", "u3": 1, "bannerId": "NEVER", "startTime": 0, "u6": 1011, "u7": 400, "paidVirtualCurrencyId": 7000001 },
+{ "eventId": "tutorial_gacha1", "lotteryNameId": "tutorial_scout1", "u3": 0, "bannerId": "FOREVER", "startTime": 0, "u6": 9991, "u7": 0, "paidVirtualCurrencyId": 7000001 },
+[]]}
