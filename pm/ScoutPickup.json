@@ -1,0 +1,10 @@
+{ "entries": [
+{ "eventId": "event_M1_1W_Normal_01", "charaId": "10021000000", "lotteryNameId": "event_M1_1W_Normal_01_1", "u4": 10 },
+{ "eventId": "event_M1_2W_Normal_01", "charaId": "10051000000", "lotteryNameId": "event_M1_2W_Normal_01_1", "u4": 10 },
+{ "eventId": "event_M1_3W_Normal_01", "charaId": "10002000000", "lotteryNameId": "event_M1_3W_Normal_01_1", "u4": 10 },
+{ "eventId": "event_M1_4W_Normal_01", "charaId": "10020000000", "lotteryNameId": "event_M1_4W_Normal_01_1", "u4": 10 },
+{ "eventId": "event_M2_1W_Normal_01", "charaId": "10004000000", "lotteryNameId": "event_M2_1W_Normal_01_1", "u4": 10 },
+{ "eventId": "event_M2_3W_Normal_01", "charaId": "10106000000", "lotteryNameId": "event_M2_3W_Normal_01_1", "u4": 10 },
+{ "eventId": "event_M2_4W_Normal_01", "charaId": "10019000000", "lotteryNameId": "event_M2_4W_Normal_01_1", "u4": 10 },
+{ "eventId": "release_201902_gacha1", "charaId": "10021000000", "lotteryNameId": "10021000000", "u4": 10 },
+[]]}
