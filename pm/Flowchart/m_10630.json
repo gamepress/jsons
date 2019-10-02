@@ -1,0 +1,1 @@
+{"startNode":0,"nodes":[{"id":0,"type":"proc_begin","next":1},{"id":1,"type":"act_heal_bond_gauge","next":2,"useActJudgement":true,"reactionActionSeqId":0,"targetType":0,"amount":2},{"id":2,"type":"act_rank_addsub","next":3,"useActJudgement":true,"reactionActionSeqId":0,"damageTargetType":0,"rankStatusType":3,"rankValue":3},{"id":3,"type":"proc_end","next":null}]}

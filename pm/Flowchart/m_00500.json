@@ -1,0 +1,1 @@
+{"startNode":0,"nodes":[{"id":0,"type":"proc_begin","next":1},{"id":1,"type":"act_rank_scale_damage","next":2,"useActJudgement":true,"reactionActionSeqId":0,"targetType":2,"baseTargetType":4,"rankRefType":1,"rankTargetType":0,"constantValue":1000,"maxPowerRate":12000},{"id":2,"type":"proc_end","next":null}]}

@@ -1,0 +1,1 @@
+{"startNode":0,"nodes":[{"id":0,"type":"proc_begin","next":1},{"id":1,"type":"act_empty","next":2,"useActJudgement":true,"reactionActionSeqId":0,"bReaction":false},{"id":2,"type":"proc_end","next":null}],"templateVars":[{"externName":"bReaction","nodeId":1,"targetParam":"bReaction","cppType":"bool","option":0}]}

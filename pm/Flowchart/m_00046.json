@@ -1,0 +1,1 @@
+{"startNode":0,"nodes":[{"id":0,"type":"proc_begin","next":1},{"id":1,"type":"cond_alive_backup_unit_num","trueNode":2,"falseNode":3,"isTargetDefender":true,"value":1},{"id":2,"type":"act_empty","next":3,"useActJudgement":true,"reactionActionSeqId":0},{"id":3,"type":"proc_end","next":null}]}

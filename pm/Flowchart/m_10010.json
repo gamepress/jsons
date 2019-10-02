@@ -1,0 +1,1 @@
+{"startNode":0,"nodes":[{"id":0,"type":"proc_begin","next":1},{"id":1,"type":"act_heal_pp","next":2,"useActJudgement":true,"reactionActionSeqId":0,"healTargetType":4,"isFastBreakOnly":true,"isToMaximum":true,"amount":0},{"id":2,"type":"act_recover_nvsc","next":3,"useActJudgement":true,"reactionActionSeqId":0,"nvscType":80,"targetType":4},{"id":3,"type":"proc_end","next":null}]}

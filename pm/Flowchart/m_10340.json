@@ -1,0 +1,1 @@
+{"startNode":0,"nodes":[{"id":0,"type":"proc_begin","next":1},{"id":1,"type":"act_absorb_status_rank","next":2,"useActJudgement":true,"reactionActionSeqId":0,"moveTargetType":2,"rankTargetType":0,"operationType":1,"isRankReset":false},{"id":2,"type":"proc_end","next":null}]}
