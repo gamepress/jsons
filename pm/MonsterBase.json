@@ -129,6 +129,8 @@
 { "monsterId": "20035600", "monsterNameId": "pm0356_00_samayouru", "dexNumber": 356, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 30600, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20035601", "monsterNameId": "pm0356_00_samayouru", "dexNumber": 356, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Female", "u9": 100, "strength": 30600, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20036100", "monsterNameId": "pm0361_00_yukiwarashi", "dexNumber": 361, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 16800, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
+{ "monsterId": "20036200", "monsterNameId": "pm0362_00_onigohri", "dexNumber": 362, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 256500, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
+{ "monsterId": "20036251", "monsterNameId": "pm0362_51_megaonigohri", "dexNumber": 362, "u4": 51, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 350200, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20036300", "monsterNameId": "pm0363_00_tamazarashi", "dexNumber": 363, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 1200, "strength": 39500, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20036400", "monsterNameId": "pm0364_00_todoggler", "dexNumber": 364, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 87600, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20036500", "monsterNameId": "pm0365_00_todoseruga", "dexNumber": 365, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 1506000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },

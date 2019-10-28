@@ -253,6 +253,9 @@
 { "variable": "s210_200_Volcano.level", "value": "0" },
 { "variable": "s210_200_Volcano_01.level", "value": "0" },
 { "variable": "s210_200_Volcano_BTL.level", "value": "0" },
+{ "variable": "s210_240_Volcano.level", "value": "0" },
+{ "variable": "s210_240_Volcano_01.level", "value": "0" },
+{ "variable": "s210_240_Volcano_BTL.level", "value": "0" },
 { "variable": "s210_250_Volcano.level", "value": "0" },
 { "variable": "s210_250_Volcano_01.level", "value": "0" },
 []]}
