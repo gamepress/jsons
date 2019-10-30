@@ -88,6 +88,7 @@
 "11110002": "Ice-Type Training Event",
 "15110001": "The Story Continues! Special Rally",
 "17110001": "New Evolution Sync Pair Stories!",
+"14110001": "Special Log-In Bonus",
 "_end": "" }, 
 "bardge_item_name_en.lsd": {
 "730000000010": "Tranquility Badge",
@@ -231,9 +232,9 @@
 "inventory_campaign_M2_ShinkaIkusei": "Evolution Rally",
 "inventory_campaign_M3_pokemonwotanosimou": "Celebrate Pokémon!",
 "inventory_campaign_M3_mainstorycampaign": "The Story Continues! Special Rally",
-"inventory_campaign_M3_pokemonwotanosimou_1": "",
-"inventory_campaign_M3_pokemonwotanosimou_2": "",
-"inventory_campaign_M3_pokemonwotanosimou_3": "",
+"inventory_campaign_M3_pokemonwotanosimou_1": "Celebrate Pokémon! #1",
+"inventory_campaign_M3_pokemonwotanosimou_2": "Celebrate Pokémon! #2",
+"inventory_campaign_M3_pokemonwotanosimou_3": "Celebrate Pokémon! #3",
 "_end": "" }, 
 "debug_story_quest_name_en.lsd": {
 "quest_title_1030100000000100": "",
@@ -1136,9 +1137,10 @@
 "inventory_campaign_M2_ShinkaIkusei": "Evolution Rally",
 "regular_login_bonus": "General Log-In Bonus",
 "inventory_campaign_M3_mainstorycampaign": "The Story Continues! Special Rally",
-"inventory_campaign_M3_pokemonwotanosimou_1": "",
-"inventory_campaign_M3_pokemonwotanosimou_2": "",
-"inventory_campaign_M3_pokemonwotanosimou_3": "",
+"inventory_campaign_M3_pokemonwotanosimou_1": "Celebrate Pokémon! #1",
+"inventory_campaign_M3_pokemonwotanosimou_2": "Celebrate Pokémon! #2",
+"inventory_campaign_M3_pokemonwotanosimou_3": "Celebrate Pokémon! #3",
+"inventory_campaign_1100_special_login_bonus": "Special Log-In Bonus",
 "_end": "" }, 
 "lottery_description_en.lsd": {
 "tutorial_gacha1": "This Johto Gym Leader paralyzes her opponents with Body Slam!",
@@ -2594,6 +2596,7 @@
 "2108011": "One-time special: 1,600 gems",
 "2108012": "One-time special: 3,200 gems",
 "3000011": "Monthly special: 3,200 gems",
+"3000021": "Limit one set per month",
 "_end": "" }, 
 "passive_skill_description_en.lsd": {
 "17010101": "Prevents the Pokémon from getting poisoned or badly poisoned.",

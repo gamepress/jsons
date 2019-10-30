@@ -34,6 +34,7 @@
 { "scheduleId": "event_M2_4W_exchenge", "startTime": "1571896800", "endTime": "1573711200" },
 { "scheduleId": "event_M3_1W", "startTime": "1572501600", "endTime": "1573711200" },
 { "scheduleId": "event_M3_1W_Exchange", "startTime": "1572501600", "endTime": "1574316000" },
+{ "scheduleId": "event_M3_1W_Loginbonus_1", "startTime": "1572588000", "endTime": "1575180000" },
 { "scheduleId": "event_M3_1W_exchenge_nobishiro", "startTime": "1569909600", "endTime": "1577772000" },
 { "scheduleId": "event_M3_2W", "startTime": "1573106400", "endTime": "1574316000" },
 { "scheduleId": "event_M3_3W", "startTime": "1573711200", "endTime": "1574920800" },

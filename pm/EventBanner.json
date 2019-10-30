@@ -18,7 +18,7 @@
 { "eventId": "event_M2_4W_Normal_01", "u2": 19, "u3": 1, "scheduleId": "event_M2_4W", "eventId3": "Gacha_M2_W4_1", "bannerId": 2109004 },
 { "eventId": "event_M3_1W_EventQuest_01", "u2": 23, "u3": 1, "scheduleId": "event_M3_1W", "eventId3": "Event_M3_1W_1", "bannerId": 1110001 },
 { "eventId": "event_M3_1W_Normal_01", "u2": 22, "u3": 1, "scheduleId": "event_M3_1W", "eventId3": "Gacha_M3_1W_1", "bannerId": 2110001 },
-{ "eventId": "event_M3_2W_Campaign_01", "u2": 25, "u3": 1, "scheduleId": "event_M3_2W", "eventId3": "Mission_M3_2W_1", "bannerId": 5110001 },
+{ "eventId": "event_M3_2W_Campaign_01", "u2": 25, "u3": 1, "scheduleId": "event_M3_2W", "eventId3": "Campaign_M3_2W_1", "bannerId": 5110001 },
 { "eventId": "event_M3_2W_Normal_01", "u2": 24, "u3": 1, "scheduleId": "event_M3_2W", "eventId3": "Gacha_M3_2W_1", "bannerId": 2110002 },
 { "eventId": "event_M3_3W_EventQuest_01", "u2": 28, "u3": 1, "scheduleId": "event_M3_3W", "eventId3": "Event_M3_3W_1", "bannerId": 1110002 },
 { "eventId": "event_M3_3W_Normal_01", "u2": 27, "u3": 1, "scheduleId": "event_M3_3W", "eventId3": "Gacha_M3_3W_1", "bannerId": 2110003 },

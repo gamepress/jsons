@@ -23,6 +23,7 @@
 { "bannerId": 2110002, "eventId": "event_M3_2W_Normal_01", "bannerTextId": 12110002, "bannerSubtextId": -1, "u5": 7 },
 { "bannerId": 2110003, "eventId": "event_M3_3W_Normal_01", "bannerTextId": 12110003, "bannerSubtextId": -1, "u5": 7 },
 { "bannerId": 2110004, "eventId": "event_M3_4W_Normal_01", "bannerTextId": 12110004, "bannerSubtextId": -1, "u5": 7 },
+{ "bannerId": 3110001, "eventId": "event_1100a_1w_Campaign_01", "bannerTextId": 14110001, "bannerSubtextId": -1, "u5": 5 },
 { "bannerId": 5108001, "eventId": "feature_global_campaign_01", "bannerTextId": 15108001, "bannerSubtextId": -1, "u5": 5 },
 { "bannerId": 5109001, "eventId": "event_M2_1W_Campaign_01", "bannerTextId": 15109001, "bannerSubtextId": -1, "u5": 5 },
 { "bannerId": 5109002, "eventId": "event_M2_3W_Campaign_01", "bannerTextId": 15109002, "bannerSubtextId": -1, "u5": 5 },
