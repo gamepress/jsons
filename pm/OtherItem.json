@@ -1,10 +1,10 @@
 { "entries": [
-{ "itemId": "410000000001", "itemSubtypeId": 4100, "imageId": "i041_0001_00", "itemType": 0 },
-{ "itemId": "450000000100", "itemSubtypeId": 4500, "imageId": "i045_0001_00", "itemType": 2 },
-{ "itemId": "450000000200", "itemSubtypeId": 4500, "imageId": "i045_0002_00", "itemType": 3 },
-{ "itemId": "530000000001", "itemSubtypeId": 5300, "imageId": "i053_0001_00", "itemType": 0 },
-{ "itemId": "650000000001", "itemSubtypeId": 6500, "imageId": "i065_0001_00", "itemType": 0 },
-{ "itemId": "660000000001", "itemSubtypeId": 6600, "imageId": "i051_0008_00", "itemType": 1 },
-{ "itemId": "660000000002", "itemSubtypeId": 6600, "imageId": "i051_0008_01", "itemType": 2 },
-{ "itemId": "670000000001", "itemSubtypeId": 6700, "imageId": "i067_0001_00", "itemType": 0 },
+{ "itemId": "410000000001", "descriptionId": 4100, "imageId": "i041_0001_00", "itemType": 0 },
+{ "itemId": "450000000100", "descriptionId": 4500, "imageId": "i045_0001_00", "itemType": 2 },
+{ "itemId": "450000000200", "descriptionId": 4500, "imageId": "i045_0002_00", "itemType": 3 },
+{ "itemId": "530000000001", "descriptionId": 5300, "imageId": "i053_0001_00", "itemType": 0 },
+{ "itemId": "650000000001", "descriptionId": 6500, "imageId": "i065_0001_00", "itemType": 0 },
+{ "itemId": "660000000001", "descriptionId": 6600, "imageId": "i051_0008_00", "itemType": 1 },
+{ "itemId": "660000000002", "descriptionId": 6600, "imageId": "i051_0008_01", "itemType": 2 },
+{ "itemId": "670000000001", "descriptionId": 6700, "imageId": "i067_0001_00", "itemType": 0 },
 []]}
