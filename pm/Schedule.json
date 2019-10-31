@@ -50,6 +50,7 @@
 { "scheduleId": "hotfix_1081_2", "startTime": "1568883600", "endTime": "1571475600" },
 { "scheduleId": "hotfix_1091_1", "startTime": "1570492800", "endTime": "1573171200" },
 { "scheduleId": "hotfix_1091aa_1", "startTime": "1571221800", "endTime": "1573900200" },
+{ "scheduleId": "hotfix_1100_1", "startTime": "1572519600", "endTime": "1575111600" },
 { "scheduleId": "update_1100_1W_FOREVER", "startTime": "1574920800", "endTime": "32503680000" },
 { "scheduleId": "update_1100_2W_FOREVER", "startTime": "1575525600", "endTime": "32503680000" },
 { "scheduleId": "update_1100_3W_FOREVER", "startTime": "1576130400", "endTime": "32503680000" },
