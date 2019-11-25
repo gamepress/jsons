@@ -56,6 +56,7 @@
 { "variable": "enemy_ai.alpha_605.trainer_move_threshold_hp_rate", "value": "0" },
 { "variable": "enemy_ai.bond_gauge_for_change_target", "value": "5" },
 { "variable": "enemy_ai.taget_select_score.hp_scale", "value": "400" },
+{ "variable": "enemy_ai_force_switch_wait_time", "value": "4000" },
 { "variable": "enemy_parameter.rate", "value": "15" },
 { "variable": "hp_gauge.threshold.red", "value": "33" },
 { "variable": "hp_gauge.threshold.yellow", "value": "50" },

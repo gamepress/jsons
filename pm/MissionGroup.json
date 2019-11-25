@@ -17,4 +17,7 @@
 { "MissionType": 2110002, "scheduleId": "update_M3_2W_Mission", "u3": 0, "u4": 1, "u5": 0, "u6": 110002, "rewardId": 636, "bannerId": 5110001, "u9": 1 },
 { "MissionType": 2110003, "scheduleId": "event_M3_3W", "u3": 0, "u4": 1, "u5": 0, "u6": 110003, "rewardId": 383, "bannerId": 1110002, "u9": 1 },
 { "MissionType": 2110004, "scheduleId": "event_M3_4W", "u3": 0, "u4": 1, "u5": 0, "u6": 110004, "rewardId": 383, "bannerId": 1110003, "u9": 1 },
+{ "MissionType": 2111001, "scheduleId": "event_1110_2W", "u3": 0, "u4": 1, "u5": 0, "u6": 111001, "rewardId": 636, "bannerId": 1111001, "u9": 1 },
+{ "MissionType": 2111002, "scheduleId": "event_1110_3W", "u3": 0, "u4": 1, "u5": 0, "u6": 111002, "rewardId": 636, "bannerId": 1111002, "u9": 1 },
+{ "MissionType": 2111003, "scheduleId": "event_1110_4W", "u3": 0, "u4": 1, "u5": 0, "u6": 111003, "rewardId": 636, "bannerId": 5111003, "u9": 1 },
 []]}
