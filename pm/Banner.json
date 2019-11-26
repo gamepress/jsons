@@ -36,7 +36,7 @@
 { "bannerId": 5109003, "eventId": "event_M2_4W_Campaign_01", "bannerTextId": 15109003, "bannerSubtextId": -1, "u5": 5 },
 { "bannerId": 5110001, "eventId": "event_M3_2W_Campaign_01", "bannerTextId": 15110001, "bannerSubtextId": -1, "u5": 5 },
 { "bannerId": 5110101, "eventId": "marketing_M3_3W", "bannerTextId": 15110103, "bannerSubtextId": -1, "u5": 5 },
-{ "bannerId": 5110102, "eventId": "marketing_M3_4W", "bannerTextId": 15110101, "bannerSubtextId": -1, "u5": 5 },
+{ "bannerId": 5110102, "eventId": "marketing_M3_4W", "bannerTextId": 15110102, "bannerSubtextId": -1, "u5": 5 },
 { "bannerId": 5111001, "eventId": "event_1110_1w_Campaign_01", "bannerTextId": 15111001, "bannerSubtextId": -1, "u5": 5 },
 { "bannerId": 5111002, "eventId": "event_1110_3w_Campaign_01", "bannerTextId": 15111002, "bannerSubtextId": -1, "u5": 5 },
 { "bannerId": 5111003, "eventId": "event_1110_4w_Campaign_01", "bannerTextId": 15111003, "bannerSubtextId": -1, "u5": 5 },

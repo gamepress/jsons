@@ -260,6 +260,7 @@
 "inventory_campaign_M3_pokemonwotanosimou_1": "Celebrate Pokémon! #1",
 "inventory_campaign_M3_pokemonwotanosimou_2": "Celebrate Pokémon! #2",
 "inventory_campaign_M3_pokemonwotanosimou_3": "Celebrate Pokémon! #3",
+"inventory_campaign_1101_BattleVictory": "Victory Point Rally",
 "_end": "" }, 
 "debug_story_quest_name_en.lsd": {
 "quest_title_1030100000000100": "",
@@ -2699,6 +2700,7 @@
 "2108012": "One-time special: 3,200 gems",
 "3000011": "Monthly special: 3,200 gems",
 "3000021": "Limit one set per month",
+"3111001": "December gem special",
 "_end": "" }, 
 "passive_skill_description_en.lsd": {
 "17010101": "Prevents the Pokémon from getting poisoned or badly poisoned.",
@@ -17057,6 +17059,7 @@
 "inventory/campaign_1": "[Name:Campaign ] Present",
 "inventory/campaign_2": "[Name:Campaign ] Completion Reward",
 "inventory/autosold_item": "Auto-Exchange of Expired Limited-Time Items",
+"inventory/campaign_3": "[Name:Campaign ] Reward",
 "_end": "" }, 
 "matching_en.lsd": {
 "matching/matching_001": "Matching Lobby",
