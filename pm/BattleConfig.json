@@ -9,7 +9,7 @@
 { "variable": "3on3.max_angle_camera.fov", "value": "0" },
 { "variable": "3on3.max_angle_camera.look_at", "value": "0" },
 { "variable": "3on3.max_angle_camera.position", "value": "0" },
-{ "variable": "automatic_automode_time", "value": "30000" },
+{ "variable": "automatic_automode_time", "value": "6000000" },
 { "variable": "bond_gauge.init_accumurated_rate_enemy", "value": "300" },
 { "variable": "bond_gauge.init_accumurated_rate_local_ally", "value": "300" },
 { "variable": "bond_gauge.init_accumurated_rate_player", "value": "750" },
