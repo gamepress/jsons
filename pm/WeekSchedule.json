@@ -40,4 +40,12 @@
 { "trialId": 191, "day": 0, "start": 0, "end": 50400 },
 { "trialId": 200, "day": 6, "start": 50400, "end": 86399 },
 { "trialId": 201, "day": 0, "start": 0, "end": 50400 },
+{ "trialId": 300, "day": 0, "start": 0, "end": 86399 },
+{ "trialId": 301, "day": 1, "start": 0, "end": 21598 },
+{ "trialId": 302, "day": 1, "start": 21600, "end": 86399 },
+{ "trialId": 303, "day": 2, "start": 0, "end": 86399 },
+{ "trialId": 304, "day": 3, "start": 0, "end": 86399 },
+{ "trialId": 305, "day": 4, "start": 0, "end": 86399 },
+{ "trialId": 306, "day": 5, "start": 0, "end": 86399 },
+{ "trialId": 307, "day": 6, "start": 0, "end": 86399 },
 []]}

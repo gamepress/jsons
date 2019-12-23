@@ -32,7 +32,7 @@
 { "variable": "chain_combo.damage_scale_single_two", "value": "1200" },
 { "variable": "chain_combo.duration", "value": "2000" },
 { "variable": "chain_combo.max_duration", "value": "20000" },
-{ "variable": "command.execute_interval", "value": "3000" },
+{ "variable": "command.execute_interval", "value": "1000" },
 { "variable": "damage_logic.base_level_like_scale", "value": "25" },
 { "variable": "damage_logic.effectiveness_scale_effective", "value": "2000" },
 { "variable": "damage_logic.effectiveness_scale_not_effective", "value": "800" },

@@ -1,5 +1,6 @@
 { "entries": [
 { "itemId": "410000000001", "descriptionId": "4100", "imageId": "i041_0001_00", "itemType": 0 },
+{ "itemId": "450000000050", "descriptionId": "4501", "imageId": "i045_0011_00", "itemType": 0 },
 { "itemId": "450000000100", "descriptionId": "4500", "imageId": "i045_0001_00", "itemType": 2 },
 { "itemId": "450000000200", "descriptionId": "4500", "imageId": "i045_0002_00", "itemType": 3 },
 { "itemId": "530000000001", "descriptionId": "5300", "imageId": "i053_0001_00", "itemType": 0 },

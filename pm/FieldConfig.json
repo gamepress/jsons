@@ -18,7 +18,7 @@
 { "variable": "home.quest_progress_point", "value": "0" },
 { "variable": "info_icon_position_margin", "value": "1000" },
 { "variable": "play_count_control_item_set_id", "value": "650000000001" },
-{ "variable": "quest_session_version", "value": "1" },
+{ "variable": "quest_session_version", "value": "2" },
 { "variable": "random_quest_make_level_max", "value": "230" },
 { "variable": "random_quest_make_level_min", "value": "190" },
 { "variable": "random_quest_max_level", "value": "100" },

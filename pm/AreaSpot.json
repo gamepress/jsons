@@ -166,6 +166,7 @@
 { "u1": 4540400, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s045_403_SubArena/s045_403_SubArena_512_512.ktx", "texSmall": "ui/image/Background/s045_403_SubArena/s045_403_SubArena_512_128.ktx" },
 { "u1": 4540500, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s045_404_SubArena/s045_404_SubArena_512_512.ktx", "texSmall": "ui/image/Background/s045_404_SubArena/s045_404_SubArena_512_128.ktx" },
 { "u1": 4540600, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s045_405_SubArena/s045_405_SubArena_512_512.ktx", "texSmall": "ui/image/Background/s045_405_SubArena/s045_405_SubArena_512_128.ktx" },
+{ "u1": 4640300, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s046_403_SubArena_night/s046_403_SubArena_night_512_512.ktx", "texSmall": "ui/image/Background/s046_403_SubArena_night/s046_403_SubArena_night_512_128.ktx" },
 { "u1": 6001000, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s060_010_Village/s060_010_Village_512_512.ktx", "texSmall": "ui/image/Background/s060_010_Village/s060_010_Village_512_128.ktx" },
 { "u1": 7001000, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s070_010_Highway/s070_010_Highway_512_512.ktx", "texSmall": "ui/image/Background/s070_010_Highway/s070_010_Highway_512_128.ktx" },
 { "u1": 7001100, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s070_011_Highway/s070_011_Highway_512_512.ktx", "texSmall": "ui/image/Background/s070_011_Highway/s070_011_Highway_512_128.ktx" },
@@ -182,4 +183,5 @@
 { "u1": 21008000, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s210_080_Volcano/s210_080_Volcano_512_512.ktx", "texSmall": "ui/image/Background/s210_080_Volcano/s210_080_Volcano_512_128.ktx" },
 { "u1": 21008002, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s210_080_Volcano_02/s210_080_Volcano_02_512_512.ktx", "texSmall": "ui/image/Background/s210_080_Volcano_02/s210_080_Volcano_02_512_128.ktx" },
 { "u1": 21024000, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s210_240_Volcano/s210_240_Volcano_512_512.ktx", "texSmall": "ui/image/Background/s210_240_Volcano/s210_240_Volcano_512_128.ktx" },
+{ "u1": 21501000, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s215_010_Volcano/s215_010_Volcano_512_512.ktx", "texSmall": "ui/image/Background/s215_010_Volcano/s215_010_Volcano_512_128.ktx" },
 []]}
