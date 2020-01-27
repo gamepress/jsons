@@ -1,4 +1,7 @@
 { "entries": [
+{ "trainer": "ch0001_00_kukui", "monster": "pm0829_11_okami2noon", "unk3": 0, "unk4": -80, "unk5": 0, "unk6": -50, "unk7": 0, "number": "50", "empty": "" },
+{ "trainer": "ch0001_00_kukui", "monster": "pm0829_11_okami2noon", "unk3": 1, "unk4": -20, "unk5": 0, "unk6": 0, "unk7": -10, "number": "16061", "empty": "" },
+{ "trainer": "ch0001_00_kukui", "monster": "pm0829_11_okami2noon", "unk3": 2, "unk4": -85, "unk5": 0, "unk6": 0, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0002_00_kotone", "monster": "pm0152_00_chicorita", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -50, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0002_00_kotone", "monster": "pm0153_00_bayleaf", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -80, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0002_00_kotone", "monster": "pm0154_01_meganium", "unk3": 0, "unk4": -70, "unk5": 0, "unk6": -100, "unk7": 0, "number": "50", "empty": "" },
@@ -129,6 +132,7 @@
 { "trainer": "ch0063_00_renbu", "monster": "pm0534_00_roubushin", "unk3": 0, "unk4": -70, "unk5": 0, "unk6": -150, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0063_00_renbu", "monster": "pm0534_00_roubushin", "unk3": 1, "unk4": -10, "unk5": 0, "unk6": 0, "unk7": -140, "number": "16061", "empty": "" },
 { "trainer": "ch0063_00_renbu", "monster": "pm0534_00_roubushin", "unk3": 2, "unk4": -100, "unk5": 0, "unk6": -186, "unk7": 20, "number": "50", "empty": "" },
+{ "trainer": "ch0090_00_daigo", "monster": "pm0376_00_metagross", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -120, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0091_00_shirona", "monster": "pm0445_01_gaburias", "unk3": 0, "unk4": -70, "unk5": 0, "unk6": -125, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0091_00_shirona", "monster": "pm0445_01_gaburias", "unk3": 1, "unk4": -130, "unk5": 0, "unk6": -60, "unk7": -5, "number": "16061", "empty": "" },
 { "trainer": "ch0091_00_shirona", "monster": "pm0445_01_gaburias", "unk3": 2, "unk4": -50, "unk5": 0, "unk6": 0, "unk7": 0, "number": "50", "empty": "" },
@@ -156,6 +160,7 @@
 { "trainer": "ch0112_00_hibiki", "monster": "pm0155_00_hinoarashi", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -50, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0112_00_hibiki", "monster": "pm0156_00_magmarashi", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -50, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0112_00_hibiki", "monster": "pm0157_00_bakphoon", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -110, "unk7": 0, "number": "50", "empty": "" },
+{ "trainer": "ch0129_00_higana", "monster": "pm0384_00_rayquaza", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -50, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0140_00_sakaki", "monster": "pm0150_00_mewtwo", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -50, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0153_00_prim", "monster": "pm0362_00_onigohri", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -80, "unk7": 0, "number": "50", "empty": "" },
 []]}
