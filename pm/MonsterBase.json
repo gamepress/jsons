@@ -248,6 +248,7 @@
 { "monsterId": "20072300", "monsterNameId": "pm0723_00_frog1", "dexNumber": 723, "u4": 0, "u5": 1, "nameJp": "", "u7": 1, "Gender": "Male", "u9": 100, "strength": 7000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20072400", "monsterNameId": "pm0724_00_frog2", "dexNumber": 724, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 10900, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20072500", "monsterNameId": "pm0725_00_frog3", "dexNumber": 725, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 40000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
+{ "monsterId": "20073200", "monsterNameId": "pm0732_00_frilledlizard2", "dexNumber": 732, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 21000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20073300", "monsterNameId": "pm0733_00_cat1", "dexNumber": 733, "u4": 0, "u5": 1, "nameJp": "", "u7": 1, "Gender": "Male", "u9": 100, "strength": 3500, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20073400", "monsterNameId": "pm0734_00_cat2", "dexNumber": 734, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 28000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20073511", "monsterNameId": "pm0735_11_pumpkin1", "dexNumber": 735, "u4": 11, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 3500, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
@@ -263,6 +264,7 @@
 { "monsterId": "20076700", "monsterNameId": "pm0767_00_ninnfi", "dexNumber": 767, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 23500, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20077400", "monsterNameId": "pm0774_00_majin", "dexNumber": 774, "u4": 0, "u5": 1, "nameJp": "", "u7": 1, "Gender": "Male", "u9": 100, "strength": 9000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20080100", "monsterNameId": "pm0801_00_onihitode1", "dexNumber": 801, "u4": 0, "u5": 1, "nameJp": "", "u7": 1, "Gender": "Male", "u9": 100, "strength": 0, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
+{ "monsterId": "20080601", "monsterNameId": "pm0806_00_dokutokage2", "dexNumber": 806, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Female", "u9": 100, "strength": 22200, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20080900", "monsterNameId": "pm0809_00_kuchibashi3", "dexNumber": 809, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 26000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20080901", "monsterNameId": "pm0809_00_kuchibashi3", "dexNumber": 809, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Female", "u9": 100, "strength": 26000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20081300", "monsterNameId": "pm0813_00_mangosteen2", "dexNumber": 813, "u4": 0, "u5": 1, "nameJp": "", "u7": 1, "Gender": "Male", "u9": 100, "strength": 8200, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
@@ -281,5 +283,6 @@
 { "monsterId": "20085300", "monsterNameId": "pm0853_00_lesser2", "dexNumber": 853, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 135000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20085400", "monsterNameId": "pm0854_00_matamata", "dexNumber": 854, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 212000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20085800", "monsterNameId": "pm0858_00_nijichu", "dexNumber": 858, "u4": 0, "u5": 1, "nameJp": "", "u7": 1, "Gender": "Female", "u9": 100, "strength": 3300, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
+{ "monsterId": "20086700", "monsterNameId": "pm0867_00_gusokumushi2", "dexNumber": 867, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 0, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20087300", "monsterNameId": "pm0873_00_sun", "dexNumber": 873, "u4": 0, "u5": 1, "nameJp": "", "u7": 3, "Gender": "Genderless", "u9": 100, "strength": 230000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 []]}

@@ -1,4 +1,5 @@
 { "entries": [
+{ "scheduleId": "event_1", "trialId": [ 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321 ] },
 { "scheduleId": "expert_1", "trialId": [ 302, 303, 304, 305, 306, 307, 300, 301 ] },
 { "scheduleId": "trial_1", "trialId": [ 10, 11 ] },
 { "scheduleId": "trial_10", "trialId": [ 100, 101 ] },
