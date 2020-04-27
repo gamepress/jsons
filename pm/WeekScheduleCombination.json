@@ -21,4 +21,5 @@
 { "scheduleId": "trial_7", "trialId": [ 70, 71 ] },
 { "scheduleId": "trial_8", "trialId": [ 80, 81 ] },
 { "scheduleId": "trial_9", "trialId": [ 90 ] },
+{ "scheduleId": "vila_mult_1", "trialId": [ 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335 ] },
 []]}
