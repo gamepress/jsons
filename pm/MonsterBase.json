@@ -117,6 +117,7 @@
 { "monsterId": "20024101", "monsterNameId": "pm0241_00_miltank", "dexNumber": 241, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Female", "u9": 6200, "strength": 75500, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20024200", "monsterNameId": "pm0242_00_happinas", "dexNumber": 242, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 46800, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20024201", "monsterNameId": "pm0242_00_happinas", "dexNumber": 242, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Female", "u9": 100, "strength": 46800, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
+{ "monsterId": "20024400", "monsterNameId": "pm0244_00_entei", "dexNumber": 244, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 198000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20024800", "monsterNameId": "pm0248_00_bangiras", "dexNumber": 248, "u4": 0, "u5": 1, "nameJp": "", "u7": 2, "Gender": "Male", "u9": 100, "strength": 202000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20025000", "monsterNameId": "pm0250_00_houou", "dexNumber": 250, "u4": 0, "u5": 1, "nameJp": "", "u7": 3, "Gender": "Genderless", "u9": 100, "strength": 199000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20025200", "monsterNameId": "pm0252_00_kimori", "dexNumber": 252, "u4": 0, "u5": 1, "nameJp": "", "u7": 1, "Gender": "Male", "u9": 100, "strength": 5000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },

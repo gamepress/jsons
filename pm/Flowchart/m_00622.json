@@ -1,0 +1,1 @@
+{"startNode":0,"nodes":[{"id":0,"type":"proc_begin","next":1},{"id":1,"type":"proc_set_bond_move_available_count","next":2,"availableCount":1},{"id":2,"type":"act_normal_damage","next":3,"useActJudgement":true,"reactionActionSeqId":0,"damageTargetType":2,"criticalRank":0,"powerRate":1000,"isForciblyHit":false,"isBurnInvalid":false},{"id":3,"type":"proc_end","next":null}]}

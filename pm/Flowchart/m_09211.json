@@ -1,0 +1,1 @@
+{"startNode":0,"nodes":[{"id":0,"type":"proc_begin","next":1},{"id":1,"type":"act_suction_rank","next":2,"useActJudgement":true,"reactionActionSeqId":0,"targetType":10,"rankType":1,"suctionValue":1},{"id":2,"type":"act_suction_rank_add","next":3},{"id":3,"type":"proc_end","next":null}]}
