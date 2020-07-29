@@ -3,6 +3,7 @@
 { "scheduleId": "expert_1", "trialId": [ 302, 303, 304, 305, 306, 307, 300, 301 ] },
 { "scheduleId": "happy_once_a_day", "trialId": [ 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350 ] },
 { "scheduleId": "once_a_day", "trialId": [ 336 ] },
+{ "scheduleId": "training_quest", "trialId": [ 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350 ] },
 { "scheduleId": "trial_1", "trialId": [ 10, 11 ] },
 { "scheduleId": "trial_10", "trialId": [ 100, 101 ] },
 { "scheduleId": "trial_11", "trialId": [ 110, 111 ] },

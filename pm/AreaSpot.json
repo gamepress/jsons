@@ -189,4 +189,5 @@
 { "u1": 30020000, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s300_200_Villa/s300_200_Villa_512_512.ktx", "texSmall": "ui/image/Background/s300_200_Villa/s300_200_Villa_512_128.ktx" },
 { "u1": 30021000, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s300_210_Villa/s300_210_Villa_512_512.ktx", "texSmall": "ui/image/Background/s300_210_Villa/s300_210_Villa_512_128.ktx" },
 { "u1": 30022000, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s300_220_Villa/s300_220_Villa_512_512.ktx", "texSmall": "ui/image/Background/s300_220_Villa/s300_220_Villa_512_128.ktx" },
+{ "u1": 32020000, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s320_200_SummerFes/s320_200_SummerFes_512_512.ktx", "texSmall": "ui/image/Background/s320_200_SummerFes/s320_200_SummerFes_512_128.ktx" },
 []]}
