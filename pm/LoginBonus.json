@@ -87,4 +87,4 @@
 { "loginBonusId": "release_normal_loginbonus_1-week_2020-9-17", "rewardId": "release_normal_loginbonus_1", "type": 0, "loginBonusNameId": "regular_login_bonus", "bannerId": -1, "startDate": 1600322400, "endDate": 1600927200 },
 { "loginBonusId": "release_normal_loginbonus_1-week_2020-9-24", "rewardId": "release_normal_loginbonus_1", "type": 0, "loginBonusNameId": "regular_login_bonus", "bannerId": -1, "startDate": 1600927200, "endDate": 1601532000 },
 { "loginBonusId": "release_normal_loginbonus_1-week_2020-9-3", "rewardId": "release_normal_loginbonus_1", "type": 0, "loginBonusNameId": "regular_login_bonus", "bannerId": -1, "startDate": 1599112800, "endDate": 1599717600 },
-]}
+[]]}

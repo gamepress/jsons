@@ -16,4 +16,4 @@
 { "bingoMissionGroupId": 9304005, "u2": 1, "scheduleId": "event_2030_1W", "bingoMissionCardId": 203005, "bingoMissionRewardId": 203005, "u6": 47, "bannerId": 1203006, "u8": 1, "prevBingoMissionGroupId": 9304004, "bingoMissionGroupPermissionId": 10011, "u11": 0, "u12": 0 },
 { "bingoMissionGroupId": 9304006, "u2": 1, "scheduleId": "event_2030_1W", "bingoMissionCardId": 203006, "bingoMissionRewardId": 203006, "u6": 47, "bannerId": 1203007, "u8": 1, "prevBingoMissionGroupId": 9304005, "bingoMissionGroupPermissionId": 10012, "u11": 0, "u12": 0 },
 { "bingoMissionGroupId": 9308001, "u2": 1, "scheduleId": "event_2070_3W_Campaing", "bingoMissionCardId": 207001, "bingoMissionRewardId": 207001, "u6": 46, "bannerId": 4207001, "u8": 2, "prevBingoMissionGroupId": 0, "bingoMissionGroupPermissionId": 10019, "u11": 0, "u12": 0 },
-]}
+[]]}

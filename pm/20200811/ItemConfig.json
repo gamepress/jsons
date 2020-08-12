@@ -1,8 +1,8 @@
 { "entries": [
-{ "itemConfigId": "deck_item.upper_limit_of_type_all", "value": "500" },
-{ "itemConfigId": "event_exchange_item.price_of_auto_selling", "value": "10" },
-{ "itemConfigId": "money.upper_limit_of_id", "value": "999999999" },
-{ "itemConfigId": "stock_item.upper_limit_of_id", "value": "99999" },
-{ "itemConfigId": "trainer_build_up_item.upper_limit_of_id", "value": "99999" },
-{ "itemConfigId": "villa_item.upper_limit_of_id", "value": "99999" },
-]}
+{ "variable": "deck_item.upper_limit_of_type_all", "value": "500" },
+{ "variable": "event_exchange_item.price_of_auto_selling", "value": "10" },
+{ "variable": "money.upper_limit_of_id", "value": "999999999" },
+{ "variable": "stock_item.upper_limit_of_id", "value": "99999" },
+{ "variable": "trainer_build_up_item.upper_limit_of_id", "value": "99999" },
+{ "variable": "villa_item.upper_limit_of_id", "value": "99999" },
+[]]}

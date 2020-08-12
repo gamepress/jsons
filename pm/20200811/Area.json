@@ -21,4 +21,4 @@
 { "unk1": "20", "unk2": "1", "name": "", "desc": "", "icon": "ui/image/icon.png", "position": "pin_pos_lc_20", "button": "btn_area_xbt_20", "effect": "area_open_eff_lc_11", "lbdat": "ui/QuestList/Map/lbproj/world_01/area_map_11.lbdat" },
 { "unk1": "21", "unk2": "1", "name": "", "desc": "", "icon": "ui/image/icon.png", "position": "pin_pos_lc_21", "button": "btn_area_xbt_21", "effect": "area_open_eff_lc_11", "lbdat": "ui/QuestList/Map/lbproj/world_01/area_map_11.lbdat" },
 { "unk1": "99", "unk2": "1", "name": "", "desc": "", "icon": "ui/image/icon.png", "position": "pin_pos_lc_21", "button": "btn_area_xbt_21", "effect": "area_open_eff_lc_11", "lbdat": "ui/QuestList/Map/lbproj/world_01/area_map_11.lbdat" },
-]}
+[]]}

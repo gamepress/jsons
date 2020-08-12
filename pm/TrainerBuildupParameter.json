@@ -426,4 +426,4 @@
 { "trainerId": "18000040161", "trainerBuildupConfigId": 4, "hp": 2, "atk": 1, "def": 1, "spa": 1, "spd": 1, "spe": 1 },
 { "trainerId": "18000040161", "trainerBuildupConfigId": 5, "hp": 2, "atk": 1, "def": 1, "spa": 1, "spd": 1, "spe": 1 },
 { "trainerId": "18000120000", "trainerBuildupConfigId": 5, "hp": 5, "atk": 2, "def": 2, "spa": 2, "spd": 2, "spe": 2 },
-]}
+[]]}

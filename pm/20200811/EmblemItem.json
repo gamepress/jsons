@@ -46,4 +46,4 @@
 { "itemId": "733207001010", "subCategory": "733207001000", "u3": 2, "rarity": 2, "u5": 2, "imageId": "i073_0020_01", "scheduleId": "event_2070_1W_FOREVER", "u8": 1, "u9": "220700111" },
 { "itemId": "733207001020", "subCategory": "733207001000", "u3": 3, "rarity": 3, "u5": 1, "imageId": "i073_0020_02", "scheduleId": "event_2070_1W_FOREVER", "u8": 1, "u9": "220700112" },
 { "itemId": "733207001030", "subCategory": "733207001000", "u3": 4, "rarity": 4, "u5": 0, "imageId": "i073_0020_03", "scheduleId": "event_2070_1W_FOREVER", "u8": 1, "u9": "220700113" },
-]}
+[]]}

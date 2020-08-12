@@ -9,4 +9,4 @@
 { "deckItemParamId": "103", "Boost": "DEF", "Lv1Boost": 12, "Lv3Boost": 16, "Lv6Boost": 22, "Lv9Boost": 28, "Lv12Boost": 34, "Lv15Boost": 40 },
 { "deckItemParamId": "104", "Boost": "SPA", "Lv1Boost": 12, "Lv3Boost": 16, "Lv6Boost": 22, "Lv9Boost": 28, "Lv12Boost": 34, "Lv15Boost": 40 },
 { "deckItemParamId": "105", "Boost": "SPD", "Lv1Boost": 12, "Lv3Boost": 16, "Lv6Boost": 22, "Lv9Boost": 28, "Lv12Boost": 34, "Lv15Boost": 40 },
-]}
+[]]}

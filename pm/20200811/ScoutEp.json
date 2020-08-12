@@ -164,4 +164,4 @@
 { "scoutEpId": "release_201902_gacha1_2", "scoutId": "release_201902_gacha1", "u3": 3, "textId": "shop/scout_005", "gemType": 2, "cost": 100, "scoutQuantity": 1, "u8": 6, "itemSetId": "-1" },
 { "scoutEpId": "release_201902_gacha1_3", "scoutId": "release_201902_gacha1", "u3": 4, "textId": "shop/scout_004", "gemType": 1, "cost": 3000, "scoutQuantity": 10, "u8": 0, "itemSetId": "-1" },
 { "scoutEpId": "tutorial_gacha1_8", "scoutId": "tutorial_gacha1", "u3": 9, "textId": "shop/scout_003", "gemType": 4, "cost": 1, "scoutQuantity": 1, "u8": 1, "itemSetId": "9100000001" },
-]}
+[]]}

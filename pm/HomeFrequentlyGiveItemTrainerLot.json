@@ -17,4 +17,4 @@
 { "itemLotId": 205001016, "itemLotGroupId": 205001, "trainerId": "10095000000", "u4": 1, "luaPath": "Scripts/Fields/include_chara_talk_ch0095_00_cattleya_present_item_1.lua", "itemLotItemId": 205000002 },
 { "itemLotId": 205001017, "itemLotGroupId": 205001, "trainerId": "10106100000", "u4": 1, "luaPath": "Scripts/Fields/include_chara_talk_ch0106_10_kamitsure_present_item_1.lua", "itemLotItemId": 205000002 },
 { "itemLotId": 205001018, "itemLotGroupId": 205001, "trainerId": "10048100000", "u4": 1, "luaPath": "Scripts/Fields/include_chara_talk_ch0048_10_gima_present_item_1.lua", "itemLotItemId": 205000002 },
-]}
+[]]}

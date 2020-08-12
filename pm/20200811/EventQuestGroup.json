@@ -57,4 +57,4 @@
 { "questGroupId": "640002", "u2": "", "bannerId": 1203009, "u4": 203006, "scheduleId": "event_2030_3W", "u6": 0, "u7": "Event_2030_3W_1", "u8": -1, "bgmId": "", "u10": 0 },
 { "questGroupId": "640003", "u2": "", "bannerId": 1203008, "u4": 203007, "scheduleId": "event_2030_3W", "u6": 0, "u7": "Event_2030_3W_1", "u8": -1, "bgmId": "", "u10": 0 },
 { "questGroupId": "690001", "u2": "", "bannerId": 1109002, "u4": 2005, "scheduleId": "event_M2_3W_2", "u6": 0, "u7": "", "u8": -1, "bgmId": "", "u10": 0 },
-]}
+[]]}
