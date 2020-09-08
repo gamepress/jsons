@@ -286,6 +286,9 @@
 { "trainer": "ch0116_00_hikari", "monster": "pm0387_00_naetle", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -50, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0116_00_hikari", "monster": "pm0388_00_hayashigame", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -100, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0116_00_hikari", "monster": "pm0389_00_dodaitose", "unk3": 0, "unk4": -70, "unk5": 0, "unk6": -150, "unk7": 10, "number": "50", "empty": "" },
+{ "trainer": "ch0118_00_lillie", "monster": "pm0035_00_pippi", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -50, "unk7": 0, "number": "50", "empty": "" },
+{ "trainer": "ch0119_00_gladion", "monster": "pm0862_11_gryps2", "unk3": 0, "unk4": -60, "unk5": 0, "unk6": -120, "unk7": 10, "number": "50", "empty": "" },
+{ "trainer": "ch0120_00_lusamine", "monster": "pm0879_00_beastblue", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -100, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0121_00_plumeria", "monster": "pm0806_00_dokutokage2", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -50, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0125_00_guzma", "monster": "pm0867_00_gusokumushi2", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -120, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0125_00_guzma", "monster": "pm0867_00_gusokumushi2", "unk3": 1, "unk4": 0, "unk5": 0, "unk6": 0, "unk7": -65, "number": "16061", "empty": "" },
@@ -336,4 +339,5 @@
 { "trainer": "ch0198_00_azami", "monster": "pm0336_00_habunake", "unk3": 1, "unk4": 0, "unk5": 0, "unk6": -16, "unk7": -51, "number": "16061", "empty": "" },
 { "trainer": "ch0198_00_azami", "monster": "pm0336_00_habunake", "unk3": 2, "unk4": -108, "unk5": 0, "unk6": -46, "unk7": 53, "number": "50", "empty": "" },
 { "trainer": "ch0240_00_musashi", "monster": "pm0024_00_arbok", "unk3": 0, "unk4": -60, "unk5": 0, "unk6": -120, "unk7": 0, "number": "50", "empty": "" },
+{ "trainer": "ch0241_00_kojiro", "monster": "pm0110_00_matadogas", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -80, "unk7": 0, "number": "50", "empty": "" },
 []]}
