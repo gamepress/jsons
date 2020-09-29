@@ -4,6 +4,11 @@
 { "questGroupId": 610052, "days": 7, "u3": 2 },
 { "questGroupId": 610053, "days": 7, "u3": 2 },
 { "questGroupId": 610055, "days": 7, "u3": 1 },
+{ "questGroupId": 610061, "days": 7, "u3": 2 },
+{ "questGroupId": 610063, "days": 7, "u3": 2 },
+{ "questGroupId": 610064, "days": 7, "u3": 1 },
+{ "questGroupId": 610071, "days": 7, "u3": 2 },
+{ "questGroupId": 610072, "days": 7, "u3": 2 },
 { "questGroupId": 800001, "days": 7, "u3": 1 },
 { "questGroupId": 800004, "days": 7, "u3": 1 },
 []]}

@@ -2,4 +2,5 @@
 { "boxSearchId": 204001, "scheduleId": "event_2040_1W_BoxSearch", "itemId": "750000000041", "bannerId": 1204005, "u5": "event_2040_1W_BoxScout_01_1", "textId": "event_2040_1W_Box_01", "u7": 10, "u8": 1 },
 { "boxSearchId": 205001, "scheduleId": "event_2050_1W_BoxSearch", "itemId": "750000000045", "bannerId": 1205004, "u5": "", "textId": "event_2050_1W_Box_01", "u7": 10, "u8": 10 },
 { "boxSearchId": 207001, "scheduleId": "event_2070_3W_BoxSearch", "itemId": "750000000048", "bannerId": 1207006, "u5": "event_2070_3W_BoxScout_01_1", "textId": "event_2070_1W_Box_01", "u7": 10, "u8": 10 },
+{ "boxSearchId": 209001, "scheduleId": "event_2090_1W_BoxSearch", "itemId": "750000000058", "bannerId": 1209002, "u5": "", "textId": "event_2050_1W_Box_01", "u7": 10, "u8": 10 },
 []]}

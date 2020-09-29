@@ -1,5 +1,9 @@
 { "entries": [
 { "questGroupId": 610055, "scheduleId": "event_2070_3W_LegendBattle" },
+{ "questGroupId": 610055, "scheduleId": "event_2090_5W_Legend" },
+{ "questGroupId": 610064, "scheduleId": "event_2085_4W_1" },
 { "questGroupId": 800001, "scheduleId": "event_2055_3W" },
+{ "questGroupId": 800001, "scheduleId": "event_2090_1W_Legend" },
 { "questGroupId": 800004, "scheduleId": "event_2060_2W_2" },
+{ "questGroupId": 800004, "scheduleId": "event_2090_3W_Legend" },
 []]}

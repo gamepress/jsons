@@ -1,4 +1,5 @@
 { "entries": [
 { "loginBonusId": "campaign_LoginBonus_2030_2", "scheduleId": "event_2030_1W_Comeback", "u3": 30, "itemSetId": "2030160" },
 { "loginBonusId": "campaign_LoginBonus_2040_1", "scheduleId": "event_2040_1W_Comeback", "u3": 30, "itemSetId": "2040026" },
+{ "loginBonusId": "campaign_LoginBonus_2080_1", "scheduleId": "event_2080_1W_comeback", "u3": 30, "itemSetId": "2080001" },
 []]}
