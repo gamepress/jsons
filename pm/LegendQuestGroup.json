@@ -1,6 +1,0 @@
-{ "entries": [
-{ "questGroupId": "610055", "bannerId": 1207005, "u3": 5, "u4": "", "u5": "Update_2090_5W_2", "bgmId": "bgm_field_pm_legend", "itemId": "732207000030", "missionIds": [ 2003001, 2003002, 2003003, 2003004, 2003005, 2003006, 2003007 ] },
-{ "questGroupId": "610064", "bannerId": 1208005, "u3": 6, "u4": "", "u5": "Event_2085_4W_1", "bgmId": "bgm_field_pm_legend", "itemId": "732208500030", "missionIds": [ 2008501, 2008502, 2008503, 2008504, 2008505, 2008506, 2008507 ] },
-{ "questGroupId": "800001", "bannerId": 1205501, "u3": 1, "u4": "", "u5": "Update_2090_1W_7", "bgmId": "bgm_field_pm_legend", "itemId": "732205500030", "missionIds": [ 2001001, 2001002, 2001003, 2001004, 2001005, 2001006, 2001007 ] },
-{ "questGroupId": "800004", "bannerId": 1206006, "u3": 4, "u4": "", "u5": "Update_2090_3W_3", "bgmId": "bgm_field_pm_legend", "itemId": "732206000030", "missionIds": [ 2002001, 2002002, 2002003, 2002004, 2002005, 2002006, 2002007 ] },
-[]]}
