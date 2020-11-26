@@ -1,0 +1,11 @@
+{ "entries": [
+{ "variable": "NoObjects", "value": "0" },
+{ "variable": "replace_iwakudaki", "value": "0" },
+{ "variable": "s070_010_Highway", "value": "0" },
+{ "variable": "s080_010_Forest", "value": "0" },
+{ "variable": "s100_010_Canyon", "value": "0" },
+{ "variable": "s110_010_Cave", "value": "0" },
+{ "variable": "s130_010_Coast", "value": "0" },
+{ "variable": "s190_010_Glacier", "value": "0" },
+{ "variable": "s210_010_Volcano", "value": "0" },
+[]]}
