@@ -3,4 +3,5 @@
 { "loginBonusId": "campaign_LoginBonus_2040_1", "scheduleId": "event_2040_1W_Comeback", "u3": 30, "itemSetId": "2040026" },
 { "loginBonusId": "campaign_LoginBonus_2080_1", "scheduleId": "event_2080_1W_comeback", "u3": 30, "itemSetId": "2080001" },
 { "loginBonusId": "campaign_LoginBonus_2110_3", "scheduleId": "event_2110_3W_comeback", "u3": 30, "itemSetId": "2110153" },
+{ "loginBonusId": "campaign_LoginBonus_3010_4", "scheduleId": "campaign_3010_3W_3", "u3": 30, "itemSetId": "3010048" },
 []]}

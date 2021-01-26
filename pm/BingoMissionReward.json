@@ -224,4 +224,13 @@
 { "bingoMissionRewardId": 212002, "nbLines": 6, "itemSetId": "2010065" },
 { "bingoMissionRewardId": 212002, "nbLines": 7, "itemSetId": "636" },
 { "bingoMissionRewardId": 212002, "nbLines": 8, "itemSetId": "2010065" },
+{ "bingoMissionRewardId": 301001, "nbLines": 0, "itemSetId": "2070100" },
+{ "bingoMissionRewardId": 301001, "nbLines": 1, "itemSetId": "636" },
+{ "bingoMissionRewardId": 301001, "nbLines": 2, "itemSetId": "2070104" },
+{ "bingoMissionRewardId": 301001, "nbLines": 3, "itemSetId": "636" },
+{ "bingoMissionRewardId": 301001, "nbLines": 4, "itemSetId": "21001260" },
+{ "bingoMissionRewardId": 301001, "nbLines": 5, "itemSetId": "636" },
+{ "bingoMissionRewardId": 301001, "nbLines": 6, "itemSetId": "2010065" },
+{ "bingoMissionRewardId": 301001, "nbLines": 7, "itemSetId": "636" },
+{ "bingoMissionRewardId": 301001, "nbLines": 8, "itemSetId": "2010065" },
 []]}

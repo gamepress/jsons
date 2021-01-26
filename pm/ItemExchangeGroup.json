@@ -50,4 +50,6 @@
 { "itemExchangeGroupId": 2212004, "u2": 1, "scheduleId": "campaign_2120_1W_5", "bannerId": 5212005, "u5": 0 },
 { "itemExchangeGroupId": 2212005, "u2": 1, "scheduleId": "event_2120_2W_Exchange_2", "bannerId": 1204001, "u5": 0 },
 { "itemExchangeGroupId": 2240003, "u2": 1, "scheduleId": "event_2040d_2W_Exchange", "bannerId": 2204006, "u5": 0 },
+{ "itemExchangeGroupId": 2301001, "u2": 1, "scheduleId": "event_3010_1W_1_exchange", "bannerId": 1301003, "u5": 0 },
+{ "itemExchangeGroupId": 2301002, "u2": 1, "scheduleId": "event_3010_2W_Legend_exchange", "bannerId": 1202006, "u5": 0 },
 []]}

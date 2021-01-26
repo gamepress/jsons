@@ -2,6 +2,7 @@
 { "variable": "s000_200_11_ArenaMain.level", "value": "0" },
 { "variable": "s000_200_template.level", "value": "0" },
 { "variable": "s001_200_Lab.level", "value": "0" },
+{ "variable": "s001_200_Lab_01.level", "value": "0" },
 { "variable": "s002_TemporaryStage.level", "value": "0" },
 { "variable": "s003_200_System.level", "value": "0" },
 { "variable": "s010_200_Pokecen.level", "value": "0" },

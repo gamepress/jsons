@@ -53,4 +53,13 @@
 { "storyQuestId": "1030211020701001", "gauge": 1, "percentage": 0, "itemSetIdFirst": "2110051", "itemSetIdGeneral": "2110054" },
 { "storyQuestId": "1030211020701001", "gauge": 2, "percentage": 0, "itemSetIdFirst": "2110052", "itemSetIdGeneral": "2110055" },
 { "storyQuestId": "1030211020701001", "gauge": 3, "percentage": 0, "itemSetIdFirst": "2110053", "itemSetIdGeneral": "2110056" },
+{ "storyQuestId": "1030301000701001", "gauge": 1, "percentage": 0, "itemSetIdFirst": "3010009", "itemSetIdGeneral": "3010012" },
+{ "storyQuestId": "1030301000701001", "gauge": 2, "percentage": 0, "itemSetIdFirst": "3010010", "itemSetIdGeneral": "3010013" },
+{ "storyQuestId": "1030301000701001", "gauge": 3, "percentage": 0, "itemSetIdFirst": "3010011", "itemSetIdGeneral": "3010014" },
+{ "storyQuestId": "1030301010701001", "gauge": 1, "percentage": 0, "itemSetIdFirst": "3010015", "itemSetIdGeneral": "3010018" },
+{ "storyQuestId": "1030301010701001", "gauge": 2, "percentage": 0, "itemSetIdFirst": "3010016", "itemSetIdGeneral": "3010019" },
+{ "storyQuestId": "1030301010701001", "gauge": 3, "percentage": 0, "itemSetIdFirst": "3010017", "itemSetIdGeneral": "3010020" },
+{ "storyQuestId": "1030301020701001", "gauge": 1, "percentage": 0, "itemSetIdFirst": "3010021", "itemSetIdGeneral": "3010024" },
+{ "storyQuestId": "1030301020701001", "gauge": 2, "percentage": 0, "itemSetIdFirst": "3010022", "itemSetIdGeneral": "3010025" },
+{ "storyQuestId": "1030301020701001", "gauge": 3, "percentage": 0, "itemSetIdFirst": "3010023", "itemSetIdGeneral": "3010026" },
 []]}

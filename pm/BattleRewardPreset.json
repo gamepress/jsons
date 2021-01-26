@@ -1761,4 +1761,12 @@
 { "dropTableId": 10439, "u2": 1, "itemProb": 50, "itemId": [ "510000001306" ], "itemCount": [ 1 ], "u6": 100, "u7": 1 },
 { "dropTableId": 10440, "u2": 1, "itemProb": 50, "itemId": [ "510000001206" ], "itemCount": [ 1 ], "u6": 100, "u7": 1 },
 { "dropTableId": 10441, "u2": 1, "itemProb": 50, "itemId": [ "750000000076" ], "itemCount": [ 1 ], "u6": 100, "u7": 1 },
+{ "dropTableId": 10442, "u2": 1, "itemProb": 5, "itemId": [ "1030430100207010" ], "itemCount": [ 1 ], "u6": 100, "u7": 1 },
+{ "dropTableId": 10443, "u2": 1, "itemProb": 50, "itemId": [ "750000000081" ], "itemCount": [ 1 ], "u6": 100, "u7": 1 },
+{ "dropTableId": 10444, "u2": 1, "itemProb": 50, "itemId": [ "750000000082" ], "itemCount": [ 1 ], "u6": 100, "u7": 1 },
+{ "dropTableId": 10445, "u2": 1, "itemProb": 50, "itemId": [ "750000000083" ], "itemCount": [ 1 ], "u6": 100, "u7": 1 },
+{ "dropTableId": 10447, "u2": 1, "itemProb": 5, "itemId": [ "750000000081" ], "itemCount": [ 30 ], "u6": 100, "u7": 1 },
+{ "dropTableId": 10448, "u2": 1, "itemProb": 5, "itemId": [ "750000000082" ], "itemCount": [ 30 ], "u6": 100, "u7": 1 },
+{ "dropTableId": 10449, "u2": 1, "itemProb": 5, "itemId": [ "750000000083" ], "itemCount": [ 30 ], "u6": 100, "u7": 1 },
+{ "dropTableId": 10450, "u2": 1, "itemProb": 50, "itemId": [ "750000000092" ], "itemCount": [ 1 ], "u6": 100, "u7": 1 },
 []]}

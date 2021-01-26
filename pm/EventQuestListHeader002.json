@@ -5,6 +5,8 @@
 { "questGroupId": 610082, "boxSearchId": 210001, "titleTextId": 21210001, "descTextId": 17120101, "imageId": "Legend_10129000000" },
 { "questGroupId": 610083, "boxSearchId": 212002, "titleTextId": 21212001, "descTextId": 17205001, "imageId": "General_01" },
 { "questGroupId": 610084, "boxSearchId": 211001, "titleTextId": 21211001, "descTextId": 17112001, "imageId": "Legend_18000120000" },
+{ "questGroupId": 610091, "boxSearchId": 301002, "titleTextId": 21111001, "descTextId": 17111001, "imageId": "Legend_10140000000" },
+{ "questGroupId": 610092, "boxSearchId": 301001, "titleTextId": 21301002, "descTextId": 17205001, "imageId": "Legend_10136000000" },
 { "questGroupId": 630004, "boxSearchId": 204001, "titleTextId": 21204001, "descTextId": 17204001, "imageId": "Legend_10133000000" },
 { "questGroupId": 630005, "boxSearchId": 212001, "titleTextId": 21204001, "descTextId": 17204001, "imageId": "Legend_10133000000" },
 []]}
