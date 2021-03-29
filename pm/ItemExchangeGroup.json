@@ -55,4 +55,6 @@
 { "itemExchangeGroupId": 2302001, "u2": 1, "scheduleId": "event_3020_5W_HappyChallenge_Exchange", "bannerId": 1210005, "u5": 0 },
 { "itemExchangeGroupId": 2302002, "u2": 1, "scheduleId": "event_3020_2W_Exchange", "bannerId": 1302003, "u5": 0 },
 { "itemExchangeGroupId": 2302003, "u2": 1, "scheduleId": "event_3020_3W_Legend_Exchange", "bannerId": 1207004, "u5": 0 },
+{ "itemExchangeGroupId": 2303001, "u2": 1, "scheduleId": "event_3030_2W_Exchange", "bannerId": 1303004, "u5": 0 },
+{ "itemExchangeGroupId": 2303002, "u2": 1, "scheduleId": "event_3030_1W_Exchange", "bannerId": 1303001, "u5": 0 },
 []]}

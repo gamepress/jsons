@@ -5,6 +5,8 @@
 { "actorId": "pm0002_00_fushigisou_rare", "u2": 30, "u3": 15, "u4": 70, "u5": -270, "u6": 0 },
 { "actorId": "pm0003_00_fushigibana", "u2": 90, "u3": 15, "u4": 60, "u5": -250, "u6": 0 },
 { "actorId": "pm0003_00_fushigibana_rare", "u2": 90, "u3": 15, "u4": 60, "u5": -250, "u6": 0 },
+{ "actorId": "pm0003_01_fushigibana", "u2": 90, "u3": 15, "u4": 60, "u5": -250, "u6": 0 },
+{ "actorId": "pm0003_01_fushigibana_rare", "u2": 90, "u3": 15, "u4": 60, "u5": -250, "u6": 0 },
 { "actorId": "pm0004_00_hitokage", "u2": 30, "u3": 15, "u4": 80, "u5": -140, "u6": 0 },
 { "actorId": "pm0004_00_hitokage_rare", "u2": 30, "u3": 15, "u4": 80, "u5": -140, "u6": 0 },
 { "actorId": "pm0005_00_lizard", "u2": 50, "u3": 15, "u4": 65, "u5": -80, "u6": 0 },

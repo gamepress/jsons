@@ -99,4 +99,9 @@
 { "MissionType": 2302004, "scheduleId": "event_3020_5W_2", "u3": 0, "u4": 1, "u5": 0, "u6": 302055, "rewardId": 206118, "bannerId": 1302006, "u9": 1 },
 { "MissionType": 2302005, "scheduleId": "event_3020_3W_Legend", "u3": 0, "u4": 1, "u5": 0, "u6": 302030, "rewardId": 3020148, "bannerId": 1207004, "u9": 1 },
 { "MissionType": 2302006, "scheduleId": "event_3020_1W", "u3": 0, "u4": 1, "u5": 0, "u6": 302010, "rewardId": 1091001, "bannerId": 1302001, "u9": 1 },
+{ "MissionType": 2303001, "scheduleId": "event_3030_2W_Mission", "u3": 0, "u4": 1, "u5": 0, "u6": 303050, "rewardId": 3030024, "bannerId": 1210004, "u9": 1 },
+{ "MissionType": 2303002, "scheduleId": "event_3030_2W_Campaign_1", "u3": 0, "u4": 1, "u5": 0, "u6": 303040, "rewardId": 2020155, "bannerId": 5303002, "u9": 1 },
+{ "MissionType": 2303003, "scheduleId": "event_3030_4W", "u3": 0, "u4": 1, "u5": 0, "u6": 303060, "rewardId": 206118, "bannerId": 1303006, "u9": 1 },
+{ "MissionType": 2303004, "scheduleId": "event_3030_1W", "u3": 0, "u4": 1, "u5": 0, "u6": 303010, "rewardId": 414, "bannerId": 1303001, "u9": 1 },
+{ "MissionType": 2303005, "scheduleId": "event_3030_3W", "u3": 0, "u4": 1, "u5": 0, "u6": 303055, "rewardId": 414, "bannerId": 1303005, "u9": 1 },
 []]}
