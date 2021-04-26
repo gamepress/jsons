@@ -107,4 +107,6 @@
 { "itemId": "810002030316", "descriptionId": 8100, "imageId": "i081_0052_01", "equipmentType": "Pin", "u5": 3, "Type": 16, "rarity": 2, "deckItemParamId": 101, "u9": -1 },
 { "itemId": "810002030317", "descriptionId": 8100, "imageId": "i081_0053_01", "equipmentType": "Pin", "u5": 3, "Type": 17, "rarity": 2, "deckItemParamId": 101, "u9": -1 },
 { "itemId": "810002030318", "descriptionId": 8100, "imageId": "i081_0054_01", "equipmentType": "Pin", "u5": 3, "Type": 18, "rarity": 2, "deckItemParamId": 101, "u9": -1 },
+{ "itemId": "810002030319", "descriptionId": 8100, "imageId": "i081_0055_00", "equipmentType": "Pin", "u5": 3, "Type": 3, "rarity": 2, "deckItemParamId": 106, "u9": 107 },
+{ "itemId": "810002030320", "descriptionId": 8100, "imageId": "i081_0056_00", "equipmentType": "Pin", "u5": 3, "Type": 9, "rarity": 2, "deckItemParamId": 106, "u9": 107 },
 []]}

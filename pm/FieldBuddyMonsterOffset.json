@@ -392,6 +392,7 @@
 { "trainer": "ch0194_00_akagi", "monster": "pm0484_00_palkia", "unk3": 0, "unk4": -60, "unk5": 0, "unk6": -110, "unk7": 20, "number": "50", "empty": "" },
 { "trainer": "ch0194_00_akagi", "monster": "pm0484_00_palkia", "unk3": 1, "unk4": 0, "unk5": 0, "unk6": -66, "unk7": -41, "number": "16061", "empty": "" },
 { "trainer": "ch0194_00_akagi", "monster": "pm0484_00_palkia", "unk3": 2, "unk4": -130, "unk5": 0, "unk6": 0, "unk7": 62, "number": "50", "empty": "" },
+{ "trainer": "ch0195_00_ghetsis", "monster": "pm0646_11_kyurem", "unk3": 0, "unk4": -90, "unk5": 0, "unk6": -90, "unk7": 10, "number": "50", "empty": "" },
 { "trainer": "ch0196_00_fleurdelis", "monster": "pm0769_00_pokemonY", "unk3": 0, "unk4": -80, "unk5": 0, "unk6": -130, "unk7": 10, "number": "50", "empty": "" },
 { "trainer": "ch0196_00_fleurdelis", "monster": "pm0769_00_pokemonY", "unk3": 1, "unk4": 0, "unk5": 0, "unk6": 0, "unk7": -60, "number": "16061", "empty": "" },
 { "trainer": "ch0196_00_fleurdelis", "monster": "pm0769_00_pokemonY", "unk3": 2, "unk4": -149, "unk5": 4294967286, "unk6": 0, "unk7": 80, "number": "50", "empty": "" },
@@ -408,5 +409,8 @@
 { "trainer": "ch0243_00_yuri", "monster": "pm0888_12_00_zacian", "unk3": 0, "unk4": -80, "unk5": 0, "unk6": -180, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0245_00_mary", "monster": "pm0877_11_00_morpeko", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -50, "unk7": 10, "number": "50", "empty": "" },
 { "trainer": "ch0247_00_dande", "monster": "pm0006_00_lizardon", "unk3": 0, "unk4": -70, "unk5": 0, "unk6": -100, "unk7": 0, "number": "50", "empty": "" },
+{ "trainer": "ch0249_00_rulina", "monster": "pm0834_00_00_kajirigame", "unk3": 0, "unk4": -75, "unk5": 0, "unk6": -85, "unk7": 10, "number": "50", "empty": "" },
+{ "trainer": "ch0250_00_saida", "monster": "pm0865_00_31_negigaknight", "unk3": 0, "unk4": -65, "unk5": 0, "unk6": -50, "unk7": 10, "number": "50", "empty": "" },
 { "trainer": "ch0256_00_nezz", "monster": "pm0862_00_31_tachifusaguma", "unk3": 0, "unk4": -80, "unk5": 0, "unk6": -60, "unk7": 10, "number": "50", "empty": "" },
+{ "trainer": "ch0257_00_qibana", "monster": "pm0884_00_00_duraludon", "unk3": 0, "unk4": -80, "unk5": 0, "unk6": -110, "unk7": 10, "number": "50", "empty": "" },
 []]}
