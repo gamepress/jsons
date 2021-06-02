@@ -2,6 +2,7 @@
 { "itemExchangeGroupId": 0, "u2": 0, "scheduleId": "", "bannerId": -1, "u5": 0 },
 { "itemExchangeGroupId": 2, "u2": 2, "scheduleId": "", "bannerId": -1, "u5": 0 },
 { "itemExchangeGroupId": 3, "u2": 3, "scheduleId": "", "bannerId": -1, "u5": 0 },
+{ "itemExchangeGroupId": 4, "u2": 4, "scheduleId": "", "bannerId": -1, "u5": 0 },
 { "itemExchangeGroupId": 2105001, "u2": 1, "scheduleId": "event_2100_1W_Exchange", "bannerId": 1201002, "u5": 0 },
 { "itemExchangeGroupId": 2107010, "u2": 1, "scheduleId": "event_M1_4W_exchenge", "bannerId": 1108004, "u5": 0 },
 { "itemExchangeGroupId": 2107020, "u2": 1, "scheduleId": "event_M1_3W_exchenge", "bannerId": 1108005, "u5": 0 },
@@ -62,4 +63,6 @@
 { "itemExchangeGroupId": 2304003, "u2": 1, "scheduleId": "event_3040_3W_2_Exchange", "bannerId": 1204001, "u5": 0 },
 { "itemExchangeGroupId": 2304004, "u2": 1, "scheduleId": "event_3040_3W_1_Exchange", "bannerId": 1304001, "u5": 0 },
 { "itemExchangeGroupId": 2304005, "u2": 1, "scheduleId": "event_3040_2W_2_Exchange", "bannerId": 1304008, "u5": 0 },
+{ "itemExchangeGroupId": 2305001, "u2": 1, "scheduleId": "event_3050_2W_Legend_BoxSearch", "bannerId": 1211002, "u5": 0 },
+{ "itemExchangeGroupId": 2305002, "u2": 1, "scheduleId": "event_3050_3W_Exchange", "bannerId": 1305007, "u5": 0 },
 []]}
