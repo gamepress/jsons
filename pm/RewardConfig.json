@@ -66,6 +66,8 @@
 { "variable": "item_id.treat_item_3", "value": "860000000003" },
 { "variable": "lottery_announcement.event_2020_1W_FesPickup_01.Scout_2020_2W_1", "value": "1" },
 { "variable": "lottery_announcement.event_2020_4W_Normal_02.Scout_2020_4W_2", "value": "1" },
+{ "variable": "present_box.deck_item.start_time_of_upper_limit", "value": "1625036400" },
+{ "variable": "present_box.deck_item.upper_limit", "value": "1000" },
 { "variable": "time_limit_scout.sec.event_2060_0W_2_BSearch_SelectionRarity5_04", "value": "604800" },
 { "variable": "time_limit_scout.sec.event_2060_0W_BSearch_SelectionRarity5_03", "value": "172800" },
 []]}
