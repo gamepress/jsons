@@ -70,4 +70,5 @@
 { "variable": "present_box.deck_item.upper_limit", "value": "1000" },
 { "variable": "time_limit_scout.sec.event_2060_0W_2_BSearch_SelectionRarity5_04", "value": "604800" },
 { "variable": "time_limit_scout.sec.event_2060_0W_BSearch_SelectionRarity5_03", "value": "172800" },
+{ "variable": "time_limit_scout.sec.event_3070_1W_FesPickup_01", "value": "259200" },
 []]}
