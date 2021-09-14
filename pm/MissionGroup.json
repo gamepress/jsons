@@ -147,4 +147,9 @@
 { "MissionType": 2308001, "scheduleId": "event_3080_2W_4", "u3": 0, "u4": 1, "u5": 0, "u6": 308030, "rewardId": 2010056, "bannerId": 1206006, "u9": 1 },
 { "MissionType": 2308002, "scheduleId": "event_3080_1W_1_MIssion", "u3": 0, "u4": 1, "u5": 0, "u6": 308010, "rewardId": 414, "bannerId": 1308001, "u9": 1 },
 { "MissionType": 2308003, "scheduleId": "event_3080_2W_3", "u3": 0, "u4": 1, "u5": 0, "u6": 308020, "rewardId": 206118, "bannerId": 1308003, "u9": 1 },
+{ "MissionType": 2308501, "scheduleId": "Campaign_3085_4W_2", "u3": 0, "u4": 1, "u5": 0, "u6": 308080, "rewardId": 2020155, "bannerId": 5303002, "u9": 1 },
+{ "MissionType": 2308502, "scheduleId": "event_3085_4W_1", "u3": 0, "u4": 1, "u5": 0, "u6": 308060, "rewardId": 2010056, "bannerId": 1303007, "u9": 1 },
+{ "MissionType": 2308503, "scheduleId": "event_3085_3W_1_Mission", "u3": 0, "u4": 1, "u5": 0, "u6": 308050, "rewardId": 414, "bannerId": 1308504, "u9": 1 },
+{ "MissionType": 2308504, "scheduleId": "event_3085_3W_3_Mission", "u3": 0, "u4": 1, "u5": 0, "u6": 308040, "rewardId": 3010172, "bannerId": 1111001, "u9": 1 },
+{ "MissionType": 2308505, "scheduleId": "event_3085_4W_2_Happy_Exchange", "u3": 0, "u4": 1, "u5": 0, "u6": 308070, "rewardId": 636, "bannerId": 1210005, "u9": 1 },
 []]}
