@@ -106,4 +106,9 @@
 { "itemId": "850030800003", "textId": 59, "imageId": "i085_0001_00", "rarity": 3, "u5": 1, "u6": 3, "eggLotGroupId": 308003, "time": 43200 },
 { "itemId": "850030800004", "textId": 58, "imageId": "i085_0001_00", "rarity": 3, "u5": 2, "u6": -388220821, "eggLotGroupId": 308004, "time": 43200 },
 { "itemId": "850030800005", "textId": 12, "imageId": "i085_0001_00", "rarity": 3, "u5": 2, "u6": -388224521, "eggLotGroupId": 308005, "time": 43200 },
+{ "itemId": "850030900001", "textId": 61, "imageId": "i085_0001_00", "rarity": 1, "u5": 1, "u6": 8, "eggLotGroupId": 309001, "time": 21600 },
+{ "itemId": "850030900002", "textId": 61, "imageId": "i085_0001_00", "rarity": 2, "u5": 1, "u6": 8, "eggLotGroupId": 309002, "time": 28800 },
+{ "itemId": "850030900003", "textId": 61, "imageId": "i085_0001_00", "rarity": 3, "u5": 1, "u6": 8, "eggLotGroupId": 309003, "time": 43200 },
+{ "itemId": "850030900004", "textId": 62, "imageId": "i085_0001_00", "rarity": 3, "u5": 2, "u6": -388223121, "eggLotGroupId": 309004, "time": 43200 },
+{ "itemId": "850030900005", "textId": 63, "imageId": "i085_0001_00", "rarity": 3, "u5": 2, "u6": -388223021, "eggLotGroupId": 309005, "time": 43200 },
 []]}

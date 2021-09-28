@@ -9,6 +9,7 @@
 { "questGroupId": 800001, "scheduleId": "event_2090_1W_Legend" },
 { "questGroupId": 800001, "scheduleId": "event_2120_3W_1" },
 { "questGroupId": 800001, "scheduleId": "event_3050_2W" },
+{ "questGroupId": 800001, "scheduleId": "event_3090_2W_Legend" },
 { "questGroupId": 800004, "scheduleId": "event_2060_2W_2" },
 { "questGroupId": 800004, "scheduleId": "event_2090_3W_Legend" },
 { "questGroupId": 800004, "scheduleId": "event_3040_3W_Legend" },
@@ -23,4 +24,5 @@
 { "questGroupId": 800009, "scheduleId": "event_3030_4W_Legend" },
 { "questGroupId": 800009, "scheduleId": "event_3085_4W_1" },
 { "questGroupId": 800010, "scheduleId": "event_3060_2W_1" },
+{ "questGroupId": 800011, "scheduleId": "event_3090_4W_3" },
 []]}
