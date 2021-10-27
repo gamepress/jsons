@@ -86,4 +86,11 @@
 { "itemExchangeGroupId": 2309003, "u2": 1, "scheduleId": "event_3090_4W_Exchange", "bannerId": 1209003, "u5": 0 },
 { "itemExchangeGroupId": 2309004, "u2": 1, "scheduleId": "event_3090_2W_1_Exchange", "bannerId": 1309003, "u5": 0 },
 { "itemExchangeGroupId": 2309005, "u2": 1, "scheduleId": "event_3090_3W_1_Exchange", "bannerId": 1309004, "u5": 0 },
+{ "itemExchangeGroupId": 2310001, "u2": 1, "scheduleId": "event_3100_1W_1_Exchange", "bannerId": 1310002, "u5": 0 },
+{ "itemExchangeGroupId": 2310002, "u2": 1, "scheduleId": "event_3100_1W_1_Exchange", "bannerId": 1310003, "u5": 0 },
+{ "itemExchangeGroupId": 2310003, "u2": 1, "scheduleId": "event_3100_1W_1_Exchange", "bannerId": 1310004, "u5": 0 },
+{ "itemExchangeGroupId": 2310004, "u2": 1, "scheduleId": "event_3100_2W_Equipment_Exchange", "bannerId": 1310006, "u5": 0 },
+{ "itemExchangeGroupId": 2310005, "u2": 1, "scheduleId": "campaign_3100_5W_1_Exchange", "bannerId": 1210005, "u5": 0 },
+{ "itemExchangeGroupId": 2310006, "u2": 1, "scheduleId": "event_3100_5W_1_Exchange", "bannerId": 1310008, "u5": 0 },
+{ "itemExchangeGroupId": 2310007, "u2": 1, "scheduleId": "event_3100_1W_1_Exchange", "bannerId": 1310005, "u5": 0 },
 []]}
