@@ -3364,7 +3364,7 @@
 "shop/shop_medal_021": "For your own protection, we can inform you each time you exceed a certain gem purchase limit per month. To turn notifications on, go to Settings on your Poryphone and turn on spending notifications.",
 "shop/shop_medal_022": "The number of gems you can purchase per month is [Digit:6digits ]. You have already purchased [Digit:6digits ] this month.",
 "shop/shop_medal_023": "You can’t purchase any more gems.",
-"shop/shop_medal_024": "You can purchase up to [Digit:6digits ] gems\ per month. You have already\ purchased [Digit:6digits ] this month.",
+"shop/shop_medal_024": "You can purchase up to [Digit:6digits ] gems\nper month. You have already\npurchased [Digit:6digits ] this month.",
 "shop/shop_medal_025": "Minors need the permission of their parent or guardian when purchasing gems. Do you have the permission of your parent or guardian?",
 "shop/shop_medal_026": "Spending Notifications",
 "shop/shop_medal_027": "Purchased",
