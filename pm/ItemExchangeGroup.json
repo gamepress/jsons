@@ -93,4 +93,8 @@
 { "itemExchangeGroupId": 2310005, "u2": 1, "scheduleId": "campaign_3100_5W_1_Exchange", "bannerId": 1210005, "u5": 0 },
 { "itemExchangeGroupId": 2310006, "u2": 1, "scheduleId": "event_3100_5W_1_Exchange", "bannerId": 1310008, "u5": 0 },
 { "itemExchangeGroupId": 2310007, "u2": 1, "scheduleId": "event_3100_1W_1_Exchange", "bannerId": 1310005, "u5": 0 },
+{ "itemExchangeGroupId": 2311001, "u2": 1, "scheduleId": "event_3110_4W_Exchange", "bannerId": 1310008, "u5": 0 },
+{ "itemExchangeGroupId": 2311002, "u2": 1, "scheduleId": "event_3110_3W_1_Exchange", "bannerId": 1311007, "u5": 0 },
+{ "itemExchangeGroupId": 2311003, "u2": 1, "scheduleId": "event_3110_3W_2_Exchange", "bannerId": 1211004, "u5": 0 },
+{ "itemExchangeGroupId": 2311004, "u2": 1, "scheduleId": "event_3110_2W_3_Exchange", "bannerId": 1311005, "u5": 0 },
 []]}

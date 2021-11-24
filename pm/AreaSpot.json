@@ -162,6 +162,7 @@
 { "u1": 4010000, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s040_100_Arena/s040_100_Arena_512_512.ktx", "texSmall": "ui/image/Background/s040_100_Arena/s040_100_Arena_512_128.ktx" },
 { "u1": 4020000, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s040_200_Arena/s040_200_Arena_512_512.ktx", "texSmall": "ui/image/Background/s040_200_Arena/s040_200_Arena_512_128.ktx" },
 { "u1": 4020001, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s040_200_Arena_01/s040_200_Arena_01_512_512.ktx", "texSmall": "ui/image/Background/s040_200_Arena_01/s040_200_Arena_01_512_128.ktx" },
+{ "u1": 4030000, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s040_300_Arena/s040_300_Arena_512_512.ktx", "texSmall": "ui/image/Background/s040_300_Arena/s040_300_Arena_512_128.ktx" },
 { "u1": 4540100, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s040_300_Arena/s040_300_Arena_512_512.ktx", "texSmall": "ui/image/Background/s040_300_Arena/s040_300_Arena_512_128.ktx" },
 { "u1": 4540200, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s045_401_SubArena/s045_401_SubArena_512_512.ktx", "texSmall": "ui/image/Background/s045_401_SubArena/s045_401_SubArena_512_128.ktx" },
 { "u1": 4540300, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s045_402_SubArena/s045_402_SubArena_512_512.ktx", "texSmall": "ui/image/Background/s045_402_SubArena/s045_402_SubArena_512_128.ktx" },
@@ -216,4 +217,5 @@
 { "u1": 33001000, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s330_010_Halloween/s330_010_Halloween_512_512.ktx", "texSmall": "ui/image/Background/s330_010_Halloween/s330_010_Halloween_512_128.ktx" },
 { "u1": 33020000, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s330_200_Halloween/s330_200_Halloween_512_512.ktx", "texSmall": "ui/image/Background/s330_200_Halloween/s330_200_Halloween_512_128.ktx" },
 { "u1": 36001000, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s360_010_Christmas/s360_010_Christmas_512_512.ktx", "texSmall": "ui/image/Background/s360_010_Christmas/s360_010_Christmas_512_128.ktx" },
+{ "u1": 36220000, "u2": 1, "name": "", "u4": "", "u5": "area_spot_01", "texBig": "ui/image/Background/s362_200_Christmas_snow_night/s362_200_Christmas_snow_night_512_512.ktx", "texSmall": "ui/image/Background/s362_200_Christmas_snow_night/s362_200_Christmas_snow_night_512_128.ktx" },
 []]}

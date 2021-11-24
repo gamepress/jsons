@@ -28,6 +28,8 @@
 { "variable": "main_story.part_2.recommended_level", "value": "30" },
 { "variable": "main_story.part_2.release_condition_quest_id", "value": "1030100000010500" },
 { "variable": "main_story.part_2.release_time", "value": "1632981600" },
+{ "variable": "main_story.part_3.recommended_level", "value": "30" },
+{ "variable": "main_story.part_3.release_condition_quest_id", "value": "1030100000010500" },
 { "variable": "play_count_control_item_set_id", "value": "650000000001" },
 { "variable": "quest_session_version", "value": "4" },
 { "variable": "random_quest_make_level_max", "value": "230" },

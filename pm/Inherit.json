@@ -1,4 +1,6 @@
 { "entries": [
+{ "questGroupId": 100203, "days": 7, "u3": 2 },
+{ "questGroupId": 100205, "days": 7, "u3": 2 },
 { "questGroupId": 610048, "days": 7, "u3": 2 },
 { "questGroupId": 610049, "days": 7, "u3": 2 },
 { "questGroupId": 610052, "days": 7, "u3": 2 },
@@ -25,6 +27,7 @@
 { "questGroupId": 610143, "days": 7, "u3": 2 },
 { "questGroupId": 610144, "days": 7, "u3": 2 },
 { "questGroupId": 610161, "days": 7, "u3": 2 },
+{ "questGroupId": 610186, "days": 7, "u3": 2 },
 { "questGroupId": 800001, "days": 7, "u3": 1 },
 { "questGroupId": 800004, "days": 7, "u3": 1 },
 { "questGroupId": 800005, "days": 7, "u3": 1 },
