@@ -1,0 +1,7 @@
+{ "entries": [
+{ "itemId": "730000000010", "descriptionId": "0", "imageId": "badge_01", "itemType": 10000800 },
+{ "itemId": "730000000020", "descriptionId": "1", "imageId": "badge_02", "itemType": 10001600 },
+{ "itemId": "730000000030", "descriptionId": "2", "imageId": "badge_03", "itemType": 10000900 },
+{ "itemId": "730000000040", "descriptionId": "3", "imageId": "badge_04", "itemType": 10003200 },
+{ "itemId": "730000000050", "descriptionId": "4", "imageId": "badge_05", "itemType": 10001300 },
+[]]}
