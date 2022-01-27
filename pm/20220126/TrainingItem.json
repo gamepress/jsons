@@ -1,0 +1,6 @@
+{ "entries": [
+{ "itemId": "520000000001", "descriptionId": "520000000001", "imageId": "i052_0001_00", "itemType": 1 },
+{ "itemId": "520000000002", "descriptionId": "520000000001", "imageId": "i052_0001_01", "itemType": 2 },
+{ "itemId": "520000000003", "descriptionId": "520000000001", "imageId": "i052_0001_02", "itemType": 3 },
+{ "itemId": "520000000004", "descriptionId": "520000000001", "imageId": "i052_0001_03", "itemType": 4 },
+[]]}
