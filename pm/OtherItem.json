@@ -18,6 +18,7 @@
 { "itemId": "450000000059", "descriptionId": "4501", "imageId": "i075_0011_00", "itemType": 0 },
 { "itemId": "450000000060", "descriptionId": "4501", "imageId": "i075_0011_00", "itemType": 0 },
 { "itemId": "450000000061", "descriptionId": "4501", "imageId": "i075_0009_00", "itemType": 0 },
+{ "itemId": "450000000062", "descriptionId": "4504", "imageId": "i075_7000_01", "itemType": 0 },
 { "itemId": "450000000075", "descriptionId": "4501", "imageId": "i045_0011_01", "itemType": 0 },
 { "itemId": "450000000100", "descriptionId": "4500", "imageId": "i045_0001_00", "itemType": 2 },
 { "itemId": "450000000200", "descriptionId": "4500", "imageId": "i045_0002_00", "itemType": 3 },
