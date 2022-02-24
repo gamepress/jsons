@@ -114,4 +114,6 @@
 { "itemExchangeGroupId": 2401006, "u2": 1, "scheduleId": "event_4010_1W_2_Exchange", "bannerId": 5401003, "u5": 0 },
 { "itemExchangeGroupId": 2401007, "u2": 1, "scheduleId": "event_4010_2W_1_Exchange", "bannerId": 1301003, "u5": 0 },
 { "itemExchangeGroupId": 2401008, "u2": 1, "scheduleId": "event_4010_3W_1_Exchange", "bannerId": 5401005, "u5": 0 },
+{ "itemExchangeGroupId": 2402001, "u2": 1, "scheduleId": "event_4020_1W_2", "bannerId": 1402001, "u5": 0 },
+{ "itemExchangeGroupId": 2402002, "u2": 1, "scheduleId": "event_4020_2W_1_Exchange", "bannerId": 1402004, "u5": 0 },
 []]}

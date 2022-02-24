@@ -2316,4 +2316,7 @@
 { "dropTableId": 10997, "u2": 1, "itemProb": 50, "itemId": [ "750000000233" ], "itemCount": [ 1 ], "u6": 100, "u7": 1 },
 { "dropTableId": 10998, "u2": 1, "itemProb": 20, "itemId": [ "750000000234" ], "itemCount": [ 1 ], "u6": 100, "u7": 1 },
 { "dropTableId": 10999, "u2": 1, "itemProb": 50, "itemId": [ "750000000234" ], "itemCount": [ 1 ], "u6": 100, "u7": 1 },
+{ "dropTableId": 12001, "u2": 1, "itemProb": 50, "itemId": [ "750000000243" ], "itemCount": [ 1 ], "u6": 100, "u7": 1 },
+{ "dropTableId": 12002, "u2": 1, "itemProb": 50, "itemId": [ "750000000244" ], "itemCount": [ 1 ], "u6": 100, "u7": 1 },
+{ "dropTableId": 12003, "u2": 1, "itemProb": 50, "itemId": [ "750000000245" ], "itemCount": [ 1 ], "u6": 100, "u7": 1 },
 []]}

@@ -45,6 +45,7 @@
 { "variable": "SPECIFIED_COMMERCIAL_TRANSACTIONS_LAW_USD_US_IOS", "value": "2" },
 { "variable": "item_exchange.buffer_time", "value": "604800" },
 { "variable": "paid_vc.max_number_of_possessions", "value": "80000" },
+{ "variable": "terms_of_can_acquire_paid_virtual_currency_without_progress", "value": "60" },
 { "variable": "ticket_scout.header_display_ticket_item_id", "value": "890000000001" },
 { "variable": "ticket_scout.schedule_keyword.update_2090_1W_TicketBSearch", "value": "1" },
 { "variable": "time_limit_scout.point_exchange_closed_time", "value": "604800" },
