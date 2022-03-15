@@ -268,4 +268,5 @@
 { "itemId": "554020010005", "trainerBuildupConfigId": 5, "scheduleId": "FOREVER", "u4": "", "trainerId": "10016500000" },
 { "itemId": "554020020005", "trainerBuildupConfigId": 5, "scheduleId": "FOREVER", "u4": "", "trainerId": "10126500000" },
 { "itemId": "554020030005", "trainerBuildupConfigId": 5, "scheduleId": "FOREVER", "u4": "", "trainerId": "10257400000" },
+{ "itemId": "554025010005", "trainerBuildupConfigId": 5, "scheduleId": "FOREVER", "u4": "", "trainerId": "10130100000" },
 []]}

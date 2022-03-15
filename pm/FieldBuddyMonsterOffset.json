@@ -385,6 +385,7 @@
 { "trainer": "ch0130_00_serena", "monster": "pm0719_00_fox3", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -50, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0130_00_serena", "monster": "pm0719_00_fox3", "unk3": 1, "unk4": 0, "unk5": 0, "unk6": -44, "unk7": -48, "number": "16061", "empty": "" },
 { "trainer": "ch0130_00_serena", "monster": "pm0719_00_fox3", "unk3": 2, "unk4": -58, "unk5": 0, "unk6": 0, "unk7": 80, "number": "50", "empty": "" },
+{ "trainer": "ch0130_10_serena", "monster": "pm0770_00_pokemonZ", "unk3": 0, "unk4": -75, "unk5": 0, "unk6": -160, "unk7": 5, "number": "50", "empty": "" },
 { "trainer": "ch0130_40_serena", "monster": "pm0547_00_elfuun", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -50, "unk7": 10, "number": "50", "empty": "" },
 { "trainer": "ch0131_00_citron", "monster": "pm0732_00_frilledlizard2", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -50, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0131_00_citron", "monster": "pm0732_00_frilledlizard2", "unk3": 1, "unk4": 0, "unk5": 0, "unk6": 0, "unk7": -70, "number": "16061", "empty": "" },
