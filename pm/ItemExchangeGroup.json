@@ -121,4 +121,13 @@
 { "itemExchangeGroupId": 2402504, "u2": 1, "scheduleId": "event_4025_4W_4", "bannerId": 1210005, "u5": 0 },
 { "itemExchangeGroupId": 2402505, "u2": 1, "scheduleId": "event_4025_4W_16", "bannerId": 1310008, "u5": 0 },
 { "itemExchangeGroupId": 2402506, "u2": 1, "scheduleId": "event_4025_4W_18", "bannerId": 1402504, "u5": 0 },
+{ "itemExchangeGroupId": 2403000, "u2": 1, "scheduleId": "campaign_4030_4W_Happy_Exchange", "bannerId": 1210005, "u5": 0 },
+{ "itemExchangeGroupId": 2403005, "u2": 1, "scheduleId": "event_4030_4W_PokemasDay_Exchange", "bannerId": 1310008, "u5": 0 },
+{ "itemExchangeGroupId": 2403010, "u2": 1, "scheduleId": "event_4030_1W_spcos_Exchange", "bannerId": 1403006, "u5": 0 },
+{ "itemExchangeGroupId": 2403015, "u2": 1, "scheduleId": "event_4030_1W_spcos_Exchange", "bannerId": 1403005, "u5": 0 },
+{ "itemExchangeGroupId": 2403020, "u2": 1, "scheduleId": "event_4030_1W_spcos_Exchange", "bannerId": 1403004, "u5": 0 },
+{ "itemExchangeGroupId": 2403025, "u2": 1, "scheduleId": "event_4030_1W_spcos_Exchange", "bannerId": 1403003, "u5": 0 },
+{ "itemExchangeGroupId": 2403030, "u2": 1, "scheduleId": "event_4030_4W_SweetLady_Exchange", "bannerId": 1403008, "u5": 0 },
+{ "itemExchangeGroupId": 2403035, "u2": 1, "scheduleId": "event_4030_3W_SunMoon_Exchange", "bannerId": 1403009, "u5": 0 },
+{ "itemExchangeGroupId": 2403040, "u2": 1, "scheduleId": "event_4030_1W_Easter_Exchange", "bannerId": 1303001, "u5": 0 },
 []]}
