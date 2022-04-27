@@ -65,6 +65,7 @@
 { "variable": "knockback.distance_scale", "value": "700" },
 { "variable": "monster_monster.min_distance", "value": "0" },
 { "variable": "monster_trainer.min_distance", "value": "0" },
+{ "variable": "obstacle_effect_interval", "value": "100000" },
 { "variable": "player1.monster.position", "value": "0" },
 { "variable": "player1.monster.rotation", "value": "0" },
 { "variable": "player1.trainer.position", "value": "0" },
