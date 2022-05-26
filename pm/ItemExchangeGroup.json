@@ -139,4 +139,9 @@
 { "itemExchangeGroupId": 2404070, "u2": 1, "scheduleId": "event_4040_4W_Exchange_1", "bannerId": 1206002, "u5": 0 },
 { "itemExchangeGroupId": 2404090, "u2": 1, "scheduleId": "event_4040_4W_Exchange_2", "bannerId": 1210005, "u5": 0 },
 { "itemExchangeGroupId": 2404095, "u2": 1, "scheduleId": "event_4040_4W_PokemasDay_Exchange", "bannerId": 1310008, "u5": 0 },
+{ "itemExchangeGroupId": 2405010, "u2": 1, "scheduleId": "event_4050_1W_Johto_Exchange", "bannerId": 1405001, "u5": 0 },
+{ "itemExchangeGroupId": 2405020, "u2": 1, "scheduleId": "event_4050_2W_Sunmoon_Exchange", "bannerId": 1305007, "u5": 0 },
+{ "itemExchangeGroupId": 2405040, "u2": 1, "scheduleId": "event_4050_4W_Mypace_Exchange", "bannerId": 1405007, "u5": 0 },
+{ "itemExchangeGroupId": 2405050, "u2": 1, "scheduleId": "event_4050_4W_PokemasDay_Exchange", "bannerId": 1310008, "u5": 0 },
+{ "itemExchangeGroupId": 2405060, "u2": 1, "scheduleId": "campaign_4050_4W_Happy_Exchange", "bannerId": 1210005, "u5": 0 },
 []]}
