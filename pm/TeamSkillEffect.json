@@ -139,6 +139,7 @@
 { "teamskilleffectId": 40010001, "teamskillId": 19970002, "u3": 3, "u4": 6, "u5": 0, "u6": 0, "u7": 0, "u8": 0 },
 { "teamskilleffectId": 40010001, "teamskillId": 19970003, "u3": 4, "u4": 8, "u5": 0, "u6": 0, "u7": 0, "u8": 0 },
 { "teamskilleffectId": 40010001, "teamskillId": 19980002, "u3": 3, "u4": 6, "u5": 0, "u6": 0, "u7": 0, "u8": 0 },
+{ "teamskilleffectId": 40010001, "teamskillId": 19980003, "u3": 4, "u4": 8, "u5": 0, "u6": 0, "u7": 0, "u8": 0 },
 { "teamskilleffectId": 40020001, "teamskillId": 10101001, "u3": 3, "u4": 1, "u5": 0, "u6": 0, "u7": 0, "u8": 0 },
 { "teamskilleffectId": 40020001, "teamskillId": 10101003, "u3": 3, "u4": 3, "u5": 0, "u6": 0, "u7": 0, "u8": 0 },
 { "teamskilleffectId": 40020002, "teamskillId": 10102001, "u3": 3, "u4": 1, "u5": 0, "u6": 0, "u7": 0, "u8": 0 },
@@ -290,4 +291,6 @@
 { "teamskilleffectId": 40030001, "teamskillId": 19970001, "u3": 3, "u4": 5, "u5": 0, "u6": 0, "u7": 0, "u8": 0 },
 { "teamskilleffectId": 40030001, "teamskillId": 19970003, "u3": 3, "u4": 7, "u5": 0, "u6": 0, "u7": 0, "u8": 0 },
 { "teamskilleffectId": 40030001, "teamskillId": 19980001, "u3": 3, "u4": 5, "u5": 0, "u6": 0, "u7": 0, "u8": 0 },
+{ "teamskilleffectId": 40030001, "teamskillId": 19980003, "u3": 3, "u4": 7, "u5": 0, "u6": 0, "u7": 0, "u8": 0 },
+{ "teamskilleffectId": 40030001, "teamskillId": 19990001, "u3": 3, "u4": 5, "u5": 0, "u6": 0, "u7": 0, "u8": 0 },
 []]}

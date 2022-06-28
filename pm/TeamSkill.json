@@ -724,4 +724,11 @@
 { "teamskillId": 19980002, "u2": 1, "teamskillTag": 29990071 },
 { "teamskillId": 19980002, "u2": 2, "teamskillTag": 30020000 },
 { "teamskillId": 19980002, "u2": 3, "teamskillTag": 40010001 },
+{ "teamskillId": 19980003, "u2": 1, "teamskillTag": 29990071 },
+{ "teamskillId": 19980003, "u2": 2, "teamskillTag": 30020000 },
+{ "teamskillId": 19980003, "u2": 3, "teamskillTag": 40030001 },
+{ "teamskillId": 19980003, "u2": 4, "teamskillTag": 40010001 },
+{ "teamskillId": 19990001, "u2": 1, "teamskillTag": 29990071 },
+{ "teamskillId": 19990001, "u2": 2, "teamskillTag": 30020000 },
+{ "teamskillId": 19990001, "u2": 3, "teamskillTag": 40030001 },
 []]}

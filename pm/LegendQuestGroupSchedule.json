@@ -25,6 +25,7 @@
 { "questGroupId": 800006, "scheduleId": "event_3050_4W_3" },
 { "questGroupId": 800006, "scheduleId": "event_3100_4W_1" },
 { "questGroupId": 800006, "scheduleId": "event_4030_2W_LegendBattle" },
+{ "questGroupId": 800007, "scheduleId": "4060_2W_LegendBattle" },
 { "questGroupId": 800007, "scheduleId": "event_3010_4W" },
 { "questGroupId": 800007, "scheduleId": "event_3070_4W_Legend" },
 { "questGroupId": 800007, "scheduleId": "event_4020_2W_5" },
