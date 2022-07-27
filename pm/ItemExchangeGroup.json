@@ -151,4 +151,7 @@
 { "itemExchangeGroupId": 2406050, "u2": 1, "scheduleId": "4060_4W_Event_Season_Exchange", "bannerId": 1306005, "u5": 0 },
 { "itemExchangeGroupId": 2406060, "u2": 1, "scheduleId": "4060_4W_Event_Happy_Exchange", "bannerId": 1210005, "u5": 0 },
 { "itemExchangeGroupId": 2406070, "u2": 1, "scheduleId": "4060_4W_Event_Pday_Exchange", "bannerId": 1310008, "u5": 0 },
+{ "itemExchangeGroupId": 2407010, "u2": 1, "scheduleId": "4070_1W_Event_AKU_Exchange", "bannerId": 1407001, "u5": 0 },
+{ "itemExchangeGroupId": 2407020, "u2": 1, "scheduleId": "4070_2W_Event_SoloBattle_Exchange", "bannerId": 1212003, "u5": 0 },
+{ "itemExchangeGroupId": 2407030, "u2": 1, "scheduleId": "4070_2W_Event_Happy_Exchange", "bannerId": 1210005, "u5": 0 },
 []]}

@@ -256,4 +256,10 @@
 { "MissionType": 2406080, "scheduleId": "4060_4W_Event_Season_Mission", "u3": 0, "u4": 1, "u5": 0, "u6": 406080, "rewardId": 414, "bannerId": 1306005, "u9": 1 },
 { "MissionType": 2406090, "scheduleId": "4060_4W_Campaign_Mission", "u3": 0, "u4": 1, "u5": 0, "u6": 406090, "rewardId": 2020155, "bannerId": 5303002, "u9": 1 },
 { "MissionType": 2406100, "scheduleId": "4060_4W_Event_Happy_Mission", "u3": 0, "u4": 1, "u5": 0, "u6": 406100, "rewardId": 636, "bannerId": 1210005, "u9": 1 },
+{ "MissionType": 2407005, "scheduleId": "4070_1W_Event_AKU_Mission", "u3": 0, "u4": 1, "u5": 0, "u6": 407005, "rewardId": 414, "bannerId": 1407001, "u9": 1 },
+{ "MissionType": 2407010, "scheduleId": "4070_2W_Event_SoloBattle_Mission", "u3": 0, "u4": 1, "u5": 0, "u6": 407010, "rewardId": 414, "bannerId": 1212003, "u9": 1 },
+{ "MissionType": 2407015, "scheduleId": "4070_2W_LegendBattle_Mission", "u3": 0, "u4": 1, "u5": 0, "u6": 407015, "rewardId": 2010056, "bannerId": 1206006, "u9": 1 },
+{ "MissionType": 2407020, "scheduleId": "4070_2W_Event_Egg", "u3": 0, "u4": 1, "u5": 0, "u6": 407020, "rewardId": 206118, "bannerId": 1407003, "u9": 1 },
+{ "MissionType": 2407025, "scheduleId": "4070_2W_Campaign_ActivitySupportMission", "u3": 0, "u4": 1, "u5": 0, "u6": 407025, "rewardId": 2020155, "bannerId": 5303002, "u9": 1 },
+{ "MissionType": 2407030, "scheduleId": "4070_2W_Event_Happy_Mission", "u3": 0, "u4": 1, "u5": 0, "u6": 407030, "rewardId": 636, "bannerId": 1210005, "u9": 1 },
 []]}
