@@ -181,7 +181,7 @@ var demo = "Done! Showing just the latest changes. Click Show Everything to show
  	 current["Pokemon"] = dl["monster_name_en.lsd"][tempMonsterRef];
 	}
 	else {
-	 console.log("MonsterID " + current.monsterId + " not found.");
+	 console.log("MonsterID " + current.monsterId + " not found. (i:" + i + ")");
 	}
 	
 	// 9/28/2020 Special Case for Mimikyu forms
@@ -334,16 +334,16 @@ var demo = "Done! Showing just the latest changes. Click Show Everything to show
 	// 2008900081: Leon & Eternatus ? Gigantamax form?, no new data yet, must be placeholder.
 	
 		// Create a deep copy of the original base Pokemon
-		for(x in current) {
-		if( typeof current[x] == "object" ) { variant[x] = [...current[x]]; }
-		else { variant[x] = current[x]; }
-		}
-		var tempvar = variant;
+		// for(x in current) {
+		// if( typeof current[x] == "object" ) { variant[x] = [...current[x]]; }
+		// else { variant[x] = current[x]; }
+		// }
+		
 
 		// currVarEntry is an array of objects - Multiple variants are possible.
 		for (var vi = 0; vi < currVarEntry.length; vi++) {
 			
-			variant = {...tempvar};
+			var variant = jQuery.extend(true, {}, current);
 
 			variant["monsterId"] = monsterName[currVarEntry[vi].monsterNameId]; 
 			
