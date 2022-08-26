@@ -462,7 +462,7 @@ var demo = "Done! Showing just the latest changes. Click Show Everything to show
 			current["cColor"] = "Rainbow";
 			current["cSyncPair"] = currSP;
 			current["cGridID"] = currSP + "_" + nodect;
-			current["cMonsterTrainerID"] = 
+			current["cMonsterTrainerID"] = currMTID;
 
 			nodect++;
 		
