@@ -304,7 +304,8 @@ if(current["Type"] == "NoType") { delete current["Type"]; }
 	if(check[current["MoveID"]]) { current.title = check[current["MoveID"]]["url"].replace(/"/g, "'"); }
 
 		if(everything || current.checksum != cs ) {
-		if ( content[i]["Group"] == "Regular" || content[i]["Group"] == 5 ) {
+			// Added Group == 6 as Buddy Moves
+		if ( content[i]["Group"] == "Regular" || content[i]["Group"] == 5 || content[i]["Group"] == 6 ) {
 			pokemonMoves.push(current);
 		} else if ( content[i]["Group"] == "Unity" ) {
 			unityMoves.push(current);
