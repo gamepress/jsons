@@ -457,7 +457,15 @@ if(current["Type"] == "NoType") { delete current["Type"]; }
 							break;
 							
 							case "Name":
-								ptext = ptext.replace(thisfrag,dl["tag_name_with_prepositions_en.lsd"][parval]);
+								if (thisfrag.indexOf("ReferencedMessageTag") > -1) {
+									ptext = ptext.replace(thisfrag,dl["tag_name_with_prepositions_en.lsd"][parval]);
+								}
+								else if (thisfrag.indexOf("MoveId Idx") > -1) {
+									ptext = ptext.replace(thisfrag,dl["move_name_en.lsd"][fragidx]);
+								}
+								else {
+									console.log("Unhandled Name Fragment: " + thisfrag + "; Move ID: " + current["MoveID"]);
+								}
 							break;
 							default:
 							// Do nothing if not currently handled
