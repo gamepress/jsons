@@ -131,7 +131,8 @@ var demo = "Done! Showing just the latest changes. Click Show Everything to show
 	var hideoutput = false;
 	
 	// 3/29/2022 Fix for duplicate Giovanni: Remove old Giovanni (without Mega Mewtwo Sync move)
-	if ( content[i]["trainerId"] == "20140000000") {
+	// 8/26/2022 Fix for duplicate Zinnia: Remove old Zinnia (without Mega move)
+	if ( content[i]["trainerId"] == "20140000000" || content[i]["trainerId"] == "20129000000") {
 		hideoutput = true;
 	}
 	
@@ -142,8 +143,12 @@ var demo = "Done! Showing just the latest changes. Click Show Everything to show
 		var current = {...content[i], ...trainer[10000000000 + parseInt(monsterEvolution[content[i]["trainerId"]])]};
 	}
 	// 12/21/2021 Added - Pulling Giovanni's trainer data correctly for Mega Mewtwo
-	else if (monsterVariation.find(a => a.trainerId == content[i]["trainerId"]) ) {
+	else if (monsterVariation.find(a => a.trainerId == content[i]["trainerId"])  && content[i]["trainerId"] == "20140000001"  ) {
 		var current = {...content[i], ...trainer[parseInt(content[i]["trainerId"]) - 1] };
+	}
+	// 8/26/2022 Added - Pulling Zinnia's trainer data correctly for Mega Rayquaza
+	else if (monsterVariation.find(a => a.trainerId == content[i]["trainerId"]) && content[i]["trainerId"] == "20129000002" ) {
+		var current = {...content[i], ...trainer[parseInt(content[i]["trainerId"]) - 2] };
 	}
 	
 	// 3/29/2021 Updated How Trainer ID is obtained from Evolution Stages.
