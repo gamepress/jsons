@@ -304,7 +304,8 @@ if(current["Type"] == "NoType") { delete current["Type"]; }
 	if(check[current["MoveID"]]) { current.title = check[current["MoveID"]]["url"].replace(/"/g, "'"); }
 
 		if(everything || current.checksum != cs ) {
-		if ( content[i]["Group"] == "Regular" || content[i]["Group"] == 5 ) {
+			// Added Group == 6 as Buddy Moves
+		if ( content[i]["Group"] == "Regular" || content[i]["Group"] == 5 || content[i]["Group"] == 6 ) {
 			pokemonMoves.push(current);
 		} else if ( content[i]["Group"] == "Unity" ) {
 			unityMoves.push(current);
@@ -456,7 +457,15 @@ if(current["Type"] == "NoType") { delete current["Type"]; }
 							break;
 							
 							case "Name":
-								ptext = ptext.replace(thisfrag,dl["tag_name_with_prepositions_en.lsd"][parval]);
+								if (thisfrag.indexOf("ReferencedMessageTag") > -1) {
+									ptext = ptext.replace(thisfrag,dl["tag_name_with_prepositions_en.lsd"][parval]);
+								}
+								else if (thisfrag.indexOf("MoveId Idx") > -1) {
+									ptext = ptext.replace(thisfrag,dl["move_name_en.lsd"][fragidx]);
+								}
+								else {
+									console.log("Unhandled Name Fragment: " + thisfrag + "; Move ID: " + current["MoveID"]);
+								}
 							break;
 							default:
 							// Do nothing if not currently handled
