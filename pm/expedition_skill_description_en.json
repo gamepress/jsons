@@ -1,8 +1,0 @@
-{
-    "10": "Raises the following discovery level by [Digit:2digits ]: • [Name:ExpeditionRewardCategory ]",
-    "20": "Raises the following discovery levels by [Digit:2digits ]: • [Name:ExpeditionRewardCategory Idx="1" ] • [Name:ExpeditionRewardCategory Idx="2" ]",
-    "30": "Raises the following discovery level by [Digit:2digits Idx="1" ]: • [Name:ExpeditionRewardCategory Idx="1" ]  Lowers the following discovery level by [Digit:2digits Idx="2" ]: • [Name:ExpeditionRewardCategory Idx="2" ]",
-    "50": "Raises the following discovery level by [Digit:2digits Idx="1" ]: • [Name:ExpeditionRewardCategory Idx="1" ]  Lowers the following discovery levels by [Digit:2digits Idx="2" ]: • [Name:ExpeditionRewardCategory Idx="2" ] • [Name:ExpeditionRewardCategory Idx="3" ]",
-    "70": "Raises the following discovery level by [Digit:2digits Idx="2" ] when a team is formed with [Digit:2digits Idx="1" ] or more sync pairs that share the [Name:TeamSkillTag ] theme: • [Name:ExpeditionRewardCategory ]",
-    "80": "Raises the following discovery level by the number of sync pairs that share the [Name:TeamSkillTag ] theme: • [Name:ExpeditionRewardCategory ]",
-}
