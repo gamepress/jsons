@@ -1,0 +1,16 @@
+{ "entries": [
+{ "questGroupId": "610055", "bannerId": 7408007, "u3": 381, "u4": "", "u5": "Event_2055_3W_2", "bgmId": "bgm_field_pm_legend", "itemId": "732207000030", "missionIds": [ 2003001, 2003002, 2003003, 2003004, 2003005, 2003006, 2003007 ] },
+{ "questGroupId": "610064", "bannerId": 7408008, "u3": 482, "u4": "", "u5": "Event_2055_3W_2", "bgmId": "bgm_field_pm_legend", "itemId": "732208500030", "missionIds": [ 2008501, 2008502, 2008503, 2008504, 2008505, 2008506, 2008507 ] },
+{ "questGroupId": "800001", "bannerId": 7408005, "u3": 244, "u4": "", "u5": "Event_2055_3W_2", "bgmId": "bgm_field_pm_legend", "itemId": "732205500030", "missionIds": [ 2001001, 2001002, 2001003, 2001004, 2001005, 2001006, 2001007 ] },
+{ "questGroupId": "800004", "bannerId": 7408006, "u3": 638, "u4": "", "u5": "Event_2055_3W_2", "bgmId": "bgm_field_pm_legend", "itemId": "732206000030", "missionIds": [ 2002001, 2002002, 2002003, 2002004, 2002005, 2002006, 2002007 ] },
+{ "questGroupId": "800005", "bannerId": 7408009, "u3": 787, "u4": "", "u5": "Event_2055_3W_2", "bgmId": "bgm_field_pm_legend", "itemId": "732210001030", "missionIds": [ 2005001, 2005002, 2005003, 2005004, 2005005, 2005006, 2005007 ] },
+{ "questGroupId": "800006", "bannerId": 7408010, "u3": 377, "u4": "", "u5": "Event_2055_3W_2", "bgmId": "bgm_field_pm_legend", "itemId": "732211003030", "missionIds": [ 2006001, 2006002, 2006003, 2006004, 2006005, 2006006, 2006007 ] },
+{ "questGroupId": "800007", "bannerId": 7408011, "u3": 488, "u4": "", "u5": "Event_2055_3W_2", "bgmId": "bgm_field_pm_legend", "itemId": "732301000030", "missionIds": [ 2007001, 2007002, 2007003, 2007004, 2007005, 2007006, 2007007 ] },
+{ "questGroupId": "800008", "bannerId": 7408012, "u3": 380, "u4": "", "u5": "Event_2055_3W_2", "bgmId": "bgm_field_pm_legend", "itemId": "732302001030", "missionIds": [ 2008001, 2008002, 2008003, 2008004, 2008005, 2008006, 2008007 ] },
+{ "questGroupId": "800009", "bannerId": 7408013, "u3": 641, "u4": "", "u5": "Event_2055_3W_2", "bgmId": "bgm_field_pm_legend", "itemId": "733303001030", "missionIds": [ 2009001, 2009002, 2009003, 2009004, 2009005, 2009006, 2009007 ] },
+{ "questGroupId": "800010", "bannerId": 7408014, "u3": 146, "u4": "", "u5": "Event_2055_3W_2", "bgmId": "bgm_field_pm_legend", "itemId": "733306002030", "missionIds": [ 2010001, 2010002, 2010003, 2010004, 2010005, 2010006, 2010007 ] },
+{ "questGroupId": "800011", "bannerId": 7408015, "u3": 480, "u4": "", "u5": "Event_2055_3W_2", "bgmId": "bgm_field_pm_legend", "itemId": "733309005030", "missionIds": [ 2011001, 2011002, 2011003, 2011004, 2011005, 2011006, 2011007 ] },
+{ "questGroupId": "800012", "bannerId": 1502006, "u3": 639, "u4": "", "u5": "Event_2055_3W_2", "bgmId": "bgm_field_pm_legend", "itemId": "733502003030", "missionIds": [ 2012001, 2012002, 2012003, 2012004, 2012005, 2012006, 2012007 ] },
+{ "questGroupId": "800013", "bannerId": 7506003, "u3": 243, "u4": "", "u5": "Event_2055_3W_2", "bgmId": "bgm_field_pm_legend", "itemId": "733506004030", "missionIds": [ 2013001, 2013002, 2013003, 2013004, 2013005, 2013006, 2013007 ] },
+{ "questGroupId": "800014", "bannerId": 7509001, "u3": 379, "u4": "", "u5": "Event_2055_3W_2", "bgmId": "bgm_field_pm_legend", "itemId": "733509002030", "missionIds": [ 2014001, 2014002, 2014003, 2014004, 2014005, 2014006, 2014007 ] },
+[]]}
